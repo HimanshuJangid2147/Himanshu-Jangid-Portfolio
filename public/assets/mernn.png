@@ -1,0 +1,2606 @@
+
+<!doctype html>
+<html lang="en-US" >
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <meta name="google-site-verification" content="PYKS8bT5gdJjVAH841jW1MhTwMRSNwojFKYgPsuSIHo" />
+  
+
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Mern Stack Development | Hire Mern Stack Development Company</title>
+	<meta name="description" content="Are You Looking for MERN Stack Development Services! Create Exceptional Apps with Exper MERN Stack Development Service. Start Your Projects – Get Started Now." />
+	<link rel="canonical" href="https://www.tridentspark.com/technology/mern-stack-development/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Mern Stack Development | Hire Mern Stack Development Company" />
+	<meta property="og:description" content="Are You Looking for MERN Stack Development Services! Create Exceptional Apps with Exper MERN Stack Development Service. Start Your Projects – Get Started Now." />
+	<meta property="og:url" content="https://www.tridentspark.com/technology/mern-stack-development/" />
+	<meta property="og:site_name" content="Trident Spark Infotech" />
+	<meta property="article:publisher" content="https://www.facebook.com/official.tridentspark/" />
+	<meta property="article:modified_time" content="2024-02-12T16:03:14+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Trident Spark Infotech &raquo; Feed" href="https://www.tridentspark.com/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.tridentspark.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.tridentspark.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.tridentspark.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dark-gray: #28303D;--wp--preset--color--gray: #39414D;--wp--preset--color--green: #D1E4DD;--wp--preset--color--blue: #D1DFE4;--wp--preset--color--purple: #D1D1E4;--wp--preset--color--red: #E4D1D1;--wp--preset--color--orange: #E4DAD1;--wp--preset--color--yellow: #EEEADD;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--purple-to-yellow: linear-gradient(160deg, #D1D1E4 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-purple: linear-gradient(160deg, #EEEADD 0%, #D1D1E4 100%);--wp--preset--gradient--green-to-yellow: linear-gradient(160deg, #D1E4DD 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-green: linear-gradient(160deg, #EEEADD 0%, #D1E4DD 100%);--wp--preset--gradient--red-to-yellow: linear-gradient(160deg, #E4D1D1 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-red: linear-gradient(160deg, #EEEADD 0%, #E4D1D1 100%);--wp--preset--gradient--purple-to-red: linear-gradient(160deg, #D1D1E4 0%, #E4D1D1 100%);--wp--preset--gradient--red-to-purple: linear-gradient(160deg, #E4D1D1 0%, #D1D1E4 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 24px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--extra-small: 16px;--wp--preset--font-size--normal: 20px;--wp--preset--font-size--extra-large: 40px;--wp--preset--font-size--huge: 96px;--wp--preset--font-size--gigantic: 144px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='twenty-twenty-one-style-css' href='https://www.tridentspark.com/wp-content/themes/twentytwentyone/style.css?ver=1.8.1685517234' media='all' />
+<style id='twenty-twenty-one-style-inline-css'>
+:root{--global--color-background: #ffffff;--global--color-primary: #000;--global--color-secondary: #000;--button--color-background: #000;--button--color-text-hover: #000;}
+</style>
+<link rel='stylesheet' id='twenty-twenty-one-print-style-css' href='https://www.tridentspark.com/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.8.1685517234' media='print' />
+<link rel='stylesheet' id='chld_thm_cfg_separate-css' href='https://www.tridentspark.com/wp-content/themes/twentytwentyone-child/ctc-style.css?ver=1.8.1685517234' media='all' />
+<link rel='stylesheet' id='bootstrap5-css' href='https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='style-css' href='https://www.tridentspark.com/wp-content/themes/twentytwentyone/../twentytwentyone-child/ts_animation.css?ver=1.8.1685517234' media='all' />
+<link rel='stylesheet' id='Poppins-css' href='https://fonts.googleapis.com/css2?family=Poppins%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700%3B1%2C800%3B1%2C900&#038;display=swap&#038;ver=6.2.2' media='all' />
+<script src='https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js?ver=6.2.2' id='bootstrap.bundle-js'></script>
+<script src='https://www.tridentspark.com/wp-content/themes/twentytwentyone/../twentytwentyone-child/country-code.js?ver=6.2.2' id='country-list-js'></script>
+<script src='https://www.tridentspark.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script src='https://www.tridentspark.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script id='ajax-script-js-extra'>
+var my_ajax_object = {"ajax_url":"https:\/\/www.tridentspark.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='https://www.tridentspark.com/wp-content/themes/twentytwentyone/../twentytwentyone-child/industies/script.js?ver=6.2.2' id='ajax-script-js'></script>
+<script src='https://www.tridentspark.com/wp-content/themes/twentytwentyone/../twentytwentyone-child/ts_animation.js?ver=6.2.2' id='animation_js-js'></script>
+<link rel="https://api.w.org/" href="https://www.tridentspark.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.tridentspark.com/wp-json/wp/v2/pages/540" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.tridentspark.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.tridentspark.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel='shortlink' href='https://www.tridentspark.com/?p=540' />
+<link rel="alternate" type="application/json+oembed" href="https://www.tridentspark.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tridentspark.com%2Ftechnology%2Fmern-stack-development%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.tridentspark.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tridentspark.com%2Ftechnology%2Fmern-stack-development%2F&#038;format=xml" />
+
+
+<!-- This site is optimized with the Schema plugin v1.7.9.6 - https://schema.press -->
+<script type="application/ld+json">[{"@context":"http:\/\/schema.org\/","@type":"WPHeader","url":"https:\/\/www.tridentspark.com\/technology\/mern-stack-development\/","headline":"MERN Stack Development","description":""},{"@context":"http:\/\/schema.org\/","@type":"WPFooter","url":"https:\/\/www.tridentspark.com\/technology\/mern-stack-development\/","headline":"MERN Stack Development","description":"","copyrightYear":"2023"}]</script>
+
+
+
+<!-- This site is optimized with the Schema plugin v1.7.9.6 - https://schema.press -->
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.tridentspark.com\/technology\/mern-stack-development\/"},"url":"https:\/\/www.tridentspark.com\/technology\/mern-stack-development\/","headline":"MERN Stack Development","datePublished":"2023-07-10T08:28:36+00:00","dateModified":"2024-02-12T16:03:14+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.tridentspark.com\/#organization","name":"Trident Spark","logo":{"@type":"ImageObject","url":"https:\/\/www.tridentspark.com\/wp-content\/uploads\/2023\/05\/trident-spark-logo.png","width":600,"height":60}},"author":{"@type":"Person","name":"admin","url":"https:\/\/www.tridentspark.com\/author\/admin\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/86331ec81b0fa27792a2c63b2601a039?s=96&d=mm&r=g","height":96,"width":96},"sameAs":["http:\/\/www.tridentspark.com"]}}</script>
+
+<meta name="generator" content="Elementor 3.20.1; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-270x270.png" />
+		<style id="wp-custom-css">
+			/* blogs list */
+/*article.entry .entry-content { margin-top: 0px; }*/
+header.entry-header { display: none; }
+.post_header_con { background-image: url(/wp-content/uploads/2023/12/wtbn-sctn_bubble_min.png); background-color: #f77a4026; background-position: center; background-size: cover; background-repeat: no-repeat; padding: 8rem 3rem 4rem; margin: 0px 0 60px !important; max-width: 100% !important; }
+.post_list_sction { padding-top: 0px !important; }
+.post_list_sction ul li { margin: 0 0 32px; }
+.recent_stories_box { background: #F9F4F0; border-radius: 5px; padding: 24px 22px; }
+.recent_stories_box h5 {
+    color: #000;
+    font-weight: 500;
+    margin: 0 0 12px;
+}
+.recent_stories_box .rs_tlt { color: #000; font-weight: 500; margin: 0 0 12px; }
+.recent_stories_box ul { margin: 0px !important; padding: 0;
+    list-style: none; }
+.recent_stories_box ul li { margin: 0 0 14px !important; }
+.recent_stories_box ul li a { font-size: 16px; line-height: 22px; text-decoration-line: underline !important; color: #797979; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.recent_stories_box ul li a:hover { color: #333; }
+.post_list_row .post_tlt { margin: 0px; }
+.post_list_row .post_tlt a { color: #2F2F2F; margin: 0 0 14px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.post_list_row .post_tlt a:hover { color: #F77A40; }
+.post_list_row .post_dis { margin: 0px; }
+.post_list_row .post_dis .wp-block-post-excerpt__excerpt { color: #2E2E2E; margin: 0 0 12px; opacity: 0.8; line-height: inherit; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+.post_list_row .post_dis .more-link { display: none; }
+.post_list_row .post_dis .wp-block-post-excerpt__more-link { font-weight: 400; font-size: 18px; line-height: 26px; color: #fff; background: #F77A40; border: 1px dashed #F77A40; padding: 7px 18px; }
+.post_list_row .post_date { display: none; }
+article.type-post header.entry-header { display: block; }
+
+@media screen and (max-width: 1660px) {
+.post_header_con { padding: 6rem 3rem 3rem; }
+}
+
+@media screen and (max-width: 768px) {
+/*    .post_header_con { margin: 46px 0 0px !important; }*/
+    .post_list_sction  figure.mob_item { margin: 0 0 10px !important; }
+}
+
+[data-elementor-id="3156"] ~ p {
+    display: none;
+}
+.blog_codes {
+    position: relative;
+}
+.blog_codes pre {
+    margin: 0px;
+}
+.blog_codes .cop_icn::after {
+	opacity: 0;
+	position: absolute;
+    content: '';
+    width: 20px;
+    height: 20px;
+    top: 10px;
+    right: 10px;
+    background: url(/wp-content/uploads/2024/02/copy-reg_icn.svg) center center;
+    background-repeat: no-repeat;
+	cursor: pointer;
+}
+.blog_codes:hover .cop_icn::after {
+	opacity: 1;
+	display: block;
+}
+.blog_codes .alert_mess:before {
+    position: absolute;
+    content: 'Code Copied!';
+    top: -20px;
+    font-size: 10px;
+    font-weight: 600;
+    background: #e5e5e5;
+    padding: 2px 7px;
+    border-radius: 4px;
+    right: 0;
+}
+
+#wpfooter { position: relative !important; }
+
+.page-id-3468 ul.nav_menu_links {
+    display: none;
+}
+
+
+/* whatsApp button on shopify-agency */
+
+.shopify_agency_hdr { display: none; }
+.page-id-3468 .website_hdr { display: none; }
+.page-id-3468 .shopify_agency_hdr { display: block; }
+.page-id-3468 .toggle_menu { display: none; }
+.page-id-3468 .nav_con {
+	display: inherit; }
+.page-id-3468 .whatsapp_button { padding: 0px 47px 0 57px; width: 100%; }
+.page-id-3468 .whatsapp_button img { filter: invert(1); max-width: 20px; }
+.page-id-3468 .whatsapp_button a {
+		background-color: #008060;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 10px 12px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+}
+@media screen and (max-width: 1510px) {
+	.page-id-3468 .whatsapp_button a { font-size: 16px; }
+}
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+    .page-id-3468 .whatsapp_button {
+        padding: 0px 30px 0 42px;
+    }
+}
+@media screen and (max-width: 676px) {
+    .page-id-3468 .whatsapp_button span { display: none; }
+    .page-id-3468 .whatsapp_button a { font-size: 14px;
+        min-width: auto;
+        border-radius: 50%;
+        padding: 9px;
+        width: auto; }
+    .page-id-3468 .whatsapp_button img { max-width: 22px; width: 22px; height: 22px; margin: 0px !important; }
+	.page-id-3468 .whatsapp_button {
+		text-align: right; padding-right: 0px; }
+.page-id-3468 .shopify_agency_hdr	.col-sm-6:first-child { width: 60%; }
+.page-id-3468 .shopify_agency_hdr	.col-sm-6 { width: 40%; }
+}
+@media screen and (max-width: 420px) {
+    .page-id-3468 .whatsapp_button {
+        text-align: right;
+        padding-right: 0px;
+    }
+    .page-id-3468 .whatsapp_button a { padding: 8px; }
+}		</style>
+		
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+  <link href="https://www.tridentspark.com/wp-content/uploads/2024/09/shopify-agency.css" rel="stylesheet" />
+
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+  <!-- Intelliticks Code for https://tridentspark.com -->
+
+  <script type='text/javascript'>
+    if (window.location.pathname !== '/shopify-agency/') {
+    (function(I, L, T, i, c, k, s) {if(I.iticks) return;I.iticks = {host:c, settings:s, clientId:k, cdn:L, queue:[]};var h = T.head || T.documentElement;var e = T.createElement(i);var l = I.location;e.async = true;e.src = (L||c)+'/client/inject-v2.min.js';h.insertBefore(e, h.firstChild);I.iticks.call = function(a, b) {I.iticks.queue.push([a, b]);};})(window, 'https://cdn-v1.intelliticks.com/prod/common', document, 'script', 'https://app.intelliticks.com', 'LipcwyGGrPnYPZjWj_c', {});
+    }
+  </script>
+
+  <!-- Hotjar Tracking Code for https://tridentspark.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3165676,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<script id="vtag-ai-js" async src="https://r2.leadsy.ai/tag.js" data-pid="1qHMUlAl8Ud6KM3o9" data-version="062024"></script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NNKLJQSV');</script>
+<!-- End Google Tag Manager -->
+
+
+</head>
+
+<body class="page-template page-template-technologies page-template-mernStack-dev page-template-technologiesmernStack-dev-php page page-id-540 page-child parent-pageid-220 custom-background wp-custom-logo wp-embed-responsive is-light-theme has-background-white no-js singular no-widgets elementor-default elementor-kit-402">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNKLJQSV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="site">
+  <div style="display: none;">
+    <a class="skip-link screen-reader-text" href="#content">
+      Skip to content    </a>
+
+    
+<header id="masthead" class="site-header has-logo has-title-and-tagline">
+
+	
+	<div class="site-logo"><a href="https://www.tridentspark.com/" class="custom-logo-link" rel="home"><img fetchpriority="high" width="512" height="512" src="https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512.png" class="custom-logo" alt="Trident Spark Infotech" decoding="async" srcset="https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512.png 512w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-300x300.png 300w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-150x150.png 150w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-270x270.png 270w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-192x192.png 192w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-180x180.png 180w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-32x32.png 32w" sizes="(max-width: 512px) 100vw, 512px" /></a></div>
+
+<div class="site-branding">
+
+	
+						<p class="site-title"><a href="https://www.tridentspark.com/">Trident Spark Infotech</a></p>
+			
+			<p class="site-description">
+			Software Development Company		</p>
+	</div><!-- .site-branding -->
+	
+
+</header><!-- #masthead -->
+  </div>
+  
+
+ <div id="content" class="site-content">
+    <div id="primary" class="content-area">
+        <main id="main" class="site-main">
+            <div class="home_hero_secrtionQW">
+                <header class="cus_header mob_head_sly">
+                    <div class="shopify_info_banner">
+                      <!--   for star html code <span style="font-size: 20px">&#x1F31F;</span>
+                        fot rocket html code <span style="font-size: 20px">&#x1F680;</span> -->
+                             <!--   <span>
+                                <span style="font-size: 20px">&#128202;</span>
+                                Optimize Your Product SEO for Organic Growth—Stop Spending on Ads!
+                                <span style="font-size: 20px">&#x1F4C8;</span>
+                            </span> -->
+                        <p>
+                     
+                          <span>  <span style="font-size: 20px">&#x1F680;</span> <span id="dynamicText">Loading...</span><span style="font-size: 20px">&#128202;</span></span>
+                            <a href="https://forms.gle/5XapfaskzqTQyQL69" target="_blank"> Free Shopify live Webinar</a> 
+                        </p>
+                    </div>
+                    <div class="container website_hdr">
+                        <nav class="nav_con">
+                            <div class="nav_head">
+                                <div class="site_logo">
+                                    <a href="https://www.tridentspark.com">
+                                        <img src="/wp-content/uploads/2023/05/trident-spark-logo.png" class="img-fluid web_logo">
+                                        <img src="/wp-content/uploads/2023/05/ts_fav_512.png" class="img-fluid tab_logo">
+                                    </a>
+                                </div>
+                                <div class="toggle_menu">
+                                    <img src="/wp-content/uploads/2023/05/hamber_menu.svg" class="img-fluid">
+                                </div>
+                            </div>
+                            <ul class="nav_menu_links">
+                                <div class="mob_menu_header">
+                                    <div class="mmh_l">
+                                        <a href="https://www.tridentspark.com">
+                                            <img src="/wp-content/uploads/2023/05/trident-spark-logo.png" class="img-fluid">
+                                        </a>
+                                    </div>
+                                    <div class="mmh_r">
+                                        <div class="toggle_menu">
+                                            <img src="/wp-content/uploads/2023/05/close-icon.svg" class="img-fluid">
+                                        </div>
+                                    </div>
+                                </div>
+                                <li class="lnk_lbl_1 about-us" id="about-us"><a href="/about-us" class="ank_link">About Us</a></li>
+                                <li class="lnk_lbl_1 services" id="services">
+                                    <span class="ank_link mega_menu_link"><span>Services</span>
+                                    <img src="/wp-content/uploads/2023/06/menu_arrow.svg" class="img-fluid">
+                                    </span>
+                                    <div class="mega_menu_box">
+                                        <div class="content container">
+                                            <p class="fs_36 tc_b fw_5 mb_8 mega_box_tlt"><span class="tc_orn">Services</span></p>
+                                            <div class="row">
+                                                <div class="rw_col col-md-4">
+                                                    <div class="mmi_col">
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/services/web-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/web_development.svg" alt=""><span>Web Development</span></span>
+                                                                    <p class="sub_mnu_dis">Angular, ReactJS, VueJs, NodeJS, ExpressJS, Laravel</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/services/devops-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/devops.svg" alt=""><span>DevOps Development</span></span>
+                                                                    <p class="sub_mnu_dis">AWS, GCP, Azure, Git, CICD, Kubernetes, Docker, IBM</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/services/digital-marketing-agency" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/digital_marketing.svg" alt=""><span>Digital Marketing</span></span>
+                                                                    <p class="sub_mnu_dis">Ahref, Semrush, seranking, SEO, SMO, Google Ads, GA4</p>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="rw_col col-md-4">
+                                                    <div class="mmi_col">
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/services/mobile-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/app_development.svg" alt=""><span>Mobile App Development</span></span>
+                                                                    <p class="sub_mnu_dis">Android, iOS, React-Native, Flutter, Ionic, Felgo</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/services/machine-learning-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/machine_learning.svg" alt=""><span>Machine Learning</span></span>
+                                                                    <p class="sub_mnu_dis">Google ML Kit, AWS ML, TensorFlow, Shogun, Apache Spark</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/services/lead-generation-service-provider-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/lead_generation.svg" alt=""><span>Lead Generation</span></span>
+                                                                    <p class="sub_mnu_dis">SalesForce, HubSpot, D&B Hoovers, LinkedIn Sales Nav</p>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="rw_col col-md-4">
+                                                    <div class="mmi_col">
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/services/graphic-design-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/graphic_design.svg" alt=""><span>Graphics & Design</span></span>
+                                                                    <p class="sub_mnu_dis">Logo, PSD to HTML, Bootstrap, Figma, AdobeXD, Sketch</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/services/data-science-services" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/data_science.svg" alt=""><span>Data Science</span></span>
+                                                                    <p class="sub_mnu_dis">Tableau, Apache Hadoop, Apache Spark, TensorFlow</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/services/testing-qa-service-provider-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/testing_qa.svg" alt=""><span>Testing & QA</span></span>
+                                                                    <p class="sub_mnu_dis">Apache JMETER, Selenium, Mocha, Chai, Karma, JIRA</p>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="lnk_lbl_1 industries" id="industries">
+                                    <span class="ank_link mega_menu_link"><span>Industries</span><img src="/wp-content/uploads/2023/06/menu_arrow.svg" class="img-fluid"></span>
+                                    <div class="mega_menu_box">
+                                        <div class="content container">
+                                            <p class="fs_36 tc_b fw_5 mb_8 mega_box_tlt"><span class="tc_orn">Industries</span></p>
+                                            <div class="row">
+                                                <div class="rw_col col-md-4">
+                                                    <div class="mmi_col">
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/industries/supply-chain-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"> <img src="/wp-content/uploads/2023/05/supply_chain_logistic.svg" alt=""><span>Supply Chain</span></span>
+                                                                    <p class="sub_mnu_dis">Managing your supply chain business process made easy with online solutions.</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/industries/fintech-software-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"> <img src="/wp-content/uploads/2023/05/fintech.svg" alt=""><span>Fintech</span></span>
+                                                                    <p class="sub_mnu_dis">Reimagine financial services with our fintech-focused mobile apps.</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/industries/e-learning-software-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"> <img src="/wp-content/uploads/2023/05/fintech.svg" alt=""><span>E-Learning</span></span>
+                                                                    <p class="sub_mnu_dis">Transform eLearning experience with online solutions and allow learners to thrive.</p>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="rw_col col-md-4">
+                                                    <div class="mmi_col">
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/industries/educational-software-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"> <img src="/wp-content/uploads/2023/05/Edtech.svg" alt=""><span>Edtech</span></span>
+                                                                    <p class="sub_mnu_dis">Enhance student engagement and knowledge retention with our Edtech solutions.</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/industries/e-commerce-software-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"> <img src="/wp-content/uploads/2023/05/Ecommerce.svg" alt=""><span>E-Commerce</span></span>
+                                                                    <p class="sub_mnu_dis">Take your business to global heights with e-commerce app solutions.</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/industries/logistic-software-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"> <img src="/wp-content/uploads/2023/05/Ecommerce.svg" alt=""><span>Logistics</span></span>
+                                                                    <p class="sub_mnu_dis">Take complete management and control over your logistics with app solutions.</p>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="rw_col col-md-4">
+                                                    <div class="mmi_col">
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/industries/healthcare-software-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/healthCare.svg" alt=""><span>Healthcare</span></span>
+                                                                    <p class="sub_mnu_dis">Delivering healthcare made easy with our end-to-end streamlined solutions.</p>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/industries/travel-software-development-company" class="sub_menu">
+                                                                    <span class="sub_menu_tlt"><img src="/wp-content/uploads/2023/05/travel.svg" alt=""><span>Travel</span>
+                                                                    </span>
+                                                                    <p class="sub_mnu_dis">Drive efficient travel experience at your fingertips with our app solutions.</p>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="lnk_lbl_1 technology" id="technology">
+                                    <span class="ank_link mega_menu_link"><span >Technology</span><img src="/wp-content/uploads/2023/06/menu_arrow.svg" class="img-fluid"></span>
+                                    <div class="mega_menu_box mega_vew_snd">
+                                        <div class="content container">
+                                            <div class="row">
+                                                <div class="col-md-3">
+                                                    <div class="sb_menu_2" id="web-rest">
+                                                        <p class="sub_menu2">Web & REST APIs</p>
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/technology/angular-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/ng_icon.svg" class="img-fluid"><span>Angular Development</span>
+                                                                </a>
+                                                                <a href="/technology/reactjs-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/05/react_JS_icon.svg" class="img-fluid"><span>ReactJS Development</span>
+                                                                </a>
+                                                                <a href="/technology/vue-js-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/Vue_js_icon.svg" class="img-fluid"><span>VueJS Development</span>
+                                                                </a>
+                                                                <a href="/technology/nodejs-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/05/angular_js_icon.svg" class="img-fluid"><span>NodeJS Development</span>
+                                                                </a>
+                                                                <a href="/technology/nestjs-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/nextJS_icon.svg" class="img-fluid"><span>NestJS Development</span>
+                                                                </a>
+                                                                <a href="/technology/expressjs-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/expressJS_icon.svg" class="img-fluid"><span>ExpressJS Development</span>
+                                                                </a>
+                                                                <a href="/technology/front-end-javascript-development" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/jScrip_icon.svg" class="img-fluid"><span>JavaScript Development</span>
+                                                                </a>
+                                                                <a href="/technology/php-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/05/php_icon.svg" class="img-fluid"><span>PHP Development</span>
+                                                                </a>
+                                                                <a href="/technology/laravel-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/05/laravel_icon.svg" class="img-fluid"><span>Laravel Development</span>
+                                                                </a>
+                                                                <a href="/technology/codelgniter-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/codeIgniter_icon.svg" class="img-fluid"><span>CodeIgniter Development</span>
+                                                                </a>
+                                                                <a href="/technology/python-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/python_icon.png" class="img-fluid"><span>Python Development</span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <!-- </div> -->
+                                                </div>
+                                                <div class="col-md-3 pl_scnd_col">
+                                                    <div class="sb_menu_2" id="full-stack">
+                                                        <p class="sub_menu2">Full Stack</p>
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/technology/mern-stack-development" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/fullStack_icon.png" class="img-fluid"><span>MERN Stack Development</span>
+                                                                </a>
+                                                                <a href="/technology/lamp-stack-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/fullStack_icon.png" class="img-fluid"><span>LAMP Stack Development</span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="sb_menu_2" id="content-management-system">
+                                                        <p class="sub_menu2">CMS Platform</p>
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/technology/squarespace-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/squareSpace_icon.png" class="img-fluid"><span>SquareSpace Developers</span>
+                                                                </a>
+                                                                <a href="/technology/wordpress-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/05/wordpress_icon.svg" class="img-fluid"><span>WordPress Developers</span>
+                                                                </a>
+                                                                <a href="/technology/webflow-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/webflow_icon.png" class="img-fluid"><span>Webflow Developer</span>
+                                                                </a>
+                                                                <a href="/technology/wix-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/wix_icon.png" class="img-fluid"><span>Wix Developer</span>
+                                                                </a>
+                                                                <a href="/shopify-agency" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/11/shopify-icon-black1212.logowik.com-removebg-preview-1.png" class="img-fluid"><span>Shopify Developer</span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 pl_tdr_col">
+                                                    <div class="sb_menu_2" id="mobile-application">
+                                                        <p class="sub_menu2">Mobile Application</p>
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/technology/ios-development-company" class="sb_mnu_link2" id="ios-development">
+                                                                    <img src="/wp-content/uploads/2023/05/iOS_icon.svg" class="img-fluid"><span>iOS Development</span>
+                                                                </a>
+                                                                <a href="/technology/android-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/05/android_icon.svg" class="img-fluid"><span>Android Development</span>
+                                                                </a>
+                                                                <a href="/technology/flutter-app-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/05/flutter_icon.svg" class="img-fluid"><span>Flutter Development</span>
+                                                                </a>
+                                                                <a href="/technology/react-native-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/05/react_JS_icon.svg" class="img-fluid"><span>React Native Development</span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="sb_menu_2" id="DevOps">
+                                                        <p class="sub_menu2">DevOps</p>
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/technology/aws-expert-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/aws_icon.png" class="img-fluid"><span>AWS Expert</span>
+                                                                </a>
+                                                                <a href="/technology/gcp-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/gcp_expert_icon.png" class="img-fluid"><span>GCP Expert</span>
+                                                                </a>
+                                                                <a href="/technology/ms-azure-expert-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/azure_icon.png" class="img-fluid"><span>MS Azure Expert</span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="sb_menu_2" id="database">
+                                                        <p class="sub_menu2">Database</p>
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/technology/postgresql-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/postgreSQL_icon.png" class="img-fluid"><span>PostgreSQL</span>
+                                                                </a>
+                                                                <a href="/technology/mysql-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/sql_icon.png" class="img-fluid"><span>MySQL</span>
+                                                                </a>
+                                                                <a href="/technology/mongodb-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/mongo_DB_icon.png" class="img-fluid"><span>MongoDB</span>
+                                                                </a>
+                                                                <a href="/technology/aws-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/amazon_dynamo_DB_icon.png" class="img-fluid"><span>AWS DynamoDB</span>
+                                                                </a>
+                                                                <a href="/technology/redis-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/redis_icon.svg" class="img-fluid"><span>Redis</span>
+                                                                </a>
+                                                                <a href="/technology/memcached-development-company" class="sb_mnu_link2">
+                                                                    <img src="/wp-content/uploads/2023/06/memchached_icon.svg" class="img-fluid"><span>Memcached</span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="lnk_lbl_1 Portfolio" id="Portfolio"><a href="/Portfolio" class="ank_link">Portfolio</a></li>
+                                <li class="lnk_lbl_1 blog" id="blog"><a href="/blog" class="ank_link">Blog</a></li>
+                                <li class="lnk_lbl_1 career" id="career"><a href="/career" class="ank_link">Career</a></li>
+                                <li class="lnk_lbl_1 contact-us" id="contact-us"><a href="/contact-us" class="ank_link">Contact</a></li>
+                                <li class="lnk_lbl_1 ts_whatsapp">
+                                    <a href="https://wa.me/+919244205396" target="_blank" class="ank_link"><img src="/wp-content/uploads/2023/09/whatsapp-icon.png" class="img-fluid"></a>
+                                </li>
+                                <li class="lnk_lbl_1 ts_email">
+                                    <a href="mailto:leads@tridentspark.com" class="ank_link"> <img src="/wp-content/uploads/2023/09/email-icon.png" class="img-fluid"></a>
+                                </li>
+                                <div class="ftr_cbc">
+                                    <p class="ftr_cbc_tlt fs_16 tc_w fw_4">Talk with Us</p>
+                                    <div class="ftr_follow_icons">
+                                        <a href="https://wa.me/+919244205396" target="_blank" class="ank_link ts_whatsapp">
+                                            <img src="/wp-content/uploads/2023/09/whatsapp-icon.png" class="img-fluid">
+                                        </a>
+                                        <a href="mailto:leads@tridentspark.com" class="ank_link ts_email">
+                                            <img src="/wp-content/uploads/2023/09/email-icon.png" class="img-fluid">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="ftr_cbc">
+                                    <p class="ftr_cbc_tlt fs_16 tc_w fw_4">Follow Us</p>
+                                    <div class="ftr_follow_icons">
+                                        <a href="https://www.facebook.com/official.tridentspark/">
+                                            <img src="/wp-content/uploads/2023/08/facebook-1.png" class="img-fluid">
+                                        </a>
+                                        <a href="https://www.linkedin.com/company/trident-spark/">
+                                            <img src="/wp-content/uploads/2023/08/linkedin-1.png" class="img-fluid">
+                                        </a>
+                                        <a href="#">
+                                            <img src="/wp-content/uploads/2023/08/twitter-1.png" class="img-fluid">
+                                        </a>
+                                    </div>
+                                </div>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="shopify_agency_hdr">
+                        <nav class="nav_con">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xl-8 col-lg-6 col-md-7 col-sm-6">
+                                        <div class="nav_head">
+                                            <div class="site_logo">
+                                                <a href="https://www.tridentspark.com">
+                                                    <img src="/wp-content/uploads/2023/05/trident-spark-logo.png" class="img-fluid web_logo">
+                                                    <img src="/wp-content/uploads/2023/05/ts_fav_512.png" class="img-fluid tab_logo">
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-lg-6 col-md-5 col-sm-6 pe-0">
+                                        <div class="whatsapp_button">
+                                            <a href="https://wa.me/+919244205396" target="_blank">
+                                                <img src="https://www.tridentspark.com/wp-content/uploads/2024/08/whatsapp-icon.svg" class="img-fluid me-2">
+                                                <span>Send a WhatsApp Message</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </header>
+            </div>
+        </main>
+    </div>
+</div>
+
+
+          <!-- Hiring Popup -->
+          <div class="hire_popup_body hiring_popup_show" id="hiring_fom_popup">
+            <span class="close_icn hiring_popup_hide">
+              <img src="/wp-content/uploads/2023/05/close-icon.svg" class="img-fluid">
+            </span>
+            <div class="container">
+              <div class="hpb_head">
+                <p class="fs_48 tc_b fw_5 mb_24 hiring_title"></p>
+                <p class="fs_24 tc_lb fw_4 mb-0 hiring_description"></p>
+              </div>
+              <div class="form_con hiring_fom_con hiring_form_section">
+                <form class="userContactInformation" id="userContactInformation">
+                  <div class="form_box">
+                    <div class="input_field">
+                      <div class="input_row">
+                        <p class="input_lbl">Name</p>
+                        <input type="text" placeholder="Enter Name" class="form-control userName" id="userName" maxlength="128">
+                      </div>
+                      <p class="error_mess errorUserName" id="errorUserName"></p>
+                    </div>
+                    <div class="input_field">
+                      <div class="input_row">
+                        <p class="input_lbl">Mobile Number</p>
+                        <div class="row fld_country_code">
+                          <div class="col-md-3 p-0 input_dropdown">
+                            <select class="form-select countryCode countryCodeData" id="countryCodeData" aria-label="Default Select Example"></select>
+                          </div>
+                          <div class="col-md-9 pe-0">
+                            <input type="text" placeholder="Enter Mobile Number" id="userPhone" class="form-control userPhone" maxlength="10">
+                          </div>
+                        </div>
+                      </div>
+                      <p class="error_mess errorUserPhone" id="errorUserPhone"></p> 
+                    </div>
+                    <div class="input_field">
+                      <div class="input_row">
+                        <p class="input_lbl">Email Address</p>
+                        <input type="email" placeholder="Enter Email Address" class="form-control userEmail" id="userEmail" maxlength="128">
+                      </div>
+                      <p class="error_mess errorUserEmail" id="errorUserEmail"></p>
+                      <!-- <p class="error_mess">This is required field</p> -->
+                    </div>
+                    <div class="input_field">
+                      <div class="input_row">
+                        <p class="input_lbl">No. Of Developers</p>
+                        <input type="text" placeholder="Enter No Of Developer" class="form-control userNoDeveloper" id="userNoDeveloper" maxlength="12">
+                      </div>
+                      <!-- <p class="error_mess">This is required field</p> -->
+                      <p class="error_mess errorUserNoDeveloper" id="errorUserNoDeveloper"></p>
+                    </div>
+                    <div class="form_action">
+                      <button class="ts_btn btn_solid requestForCallBack" type="button" id="requestForCallBack">Request For Call Back
+                        <span class="custom_spinner spinner-border spinner-request-for-call-back" id="spinner-request-for-call-back" role="status">
+                          <span class="visually-hidden">Loading...</span>
+                        </span>
+                      </button>
+                    </div>
+                    <span id="errorRequestCallBack" class="errorRequestCallBack"></span>
+                  </div>
+                </form>
+              </div>
+              <div class="hiring_popup_success">
+                <div class="succ_call_con">
+                  <p class="fs_48 tc_orn fw_5 mb_10">Thank You</p>
+                   <p class="fs_24 tc_lb">Request for call back</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
+<!-- script for hire popup -->
+<script>
+   
+   $(document).ready(function(){
+       
+        var countryCodeData;
+        var countrylist = countryList;
+        var countryShow;
+            for (let index of countryList) {
+               countryShow += '<option value="'+ index['dial_code']+'">'+ index['dial_code'] +' ('+index['code']+')'+'</option>';
+            }
+         $(".countryCode").html(countryShow)
+         $('.countryCodeData').select2({
+         selectOnClose: true
+       });
+        $(".spinner-request-for-call-back").css("display", "none");
+        // jQuery("#countryCodeData" ).click(function() {
+        //      countryCodeData = $('#countryCodeData').val();
+        // });
+        $(document.body).on("change",".countryCodeData",function(){
+            countryCodeData=this.value;
+        });
+
+        jQuery('#userEmail').keyup(function(){
+            var emailAddress = $('#userEmail').val();
+            if(emailAddress !=null && emailAddress !=" "){
+                emailAddress = emailAddress.replace(/ +(?= )/g,'');
+                $('#userEmail').val(emailAddress); 
+            }else{
+            var emailAddressCheckSpace = emailAddress.trim();
+               emailAddressCheckSpace = emailAddressCheckSpace.replace(/ +(?= )/g,'');
+               $('#userEmail').val(emailAddressCheckSpace);  
+            }
+
+            var emailValid = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if(emailAddress !=" "  && emailAddress !="" && emailAddress !='undefined' && emailAddress.length > 0 && !emailValid.test(emailAddress)) {
+               $("#errorUserEmail").text("Please enter valid email address.");
+                $('.userEmail').addClass('input_b_error');
+            return false;
+            } else {
+              $('.userEmail').removeClass('input_b_error');
+               $("#errorUserEmail").text("");
+            }
+        });
+
+        jQuery('#userEmail').keyup(function(){
+            var userEmailAddress = $('.userEmail').val();
+            var emailValid = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;           
+            if(userEmailAddress !="" &&  userEmailAddress !='undefined' && userEmailAddress.length > 0 && !emailValid.test(userEmailAddress)){
+                $('.userEmail').addClass('input_b_error');
+               $(".errorUserEmail").text("Please enter valid email address.");
+            }else {
+               $('.userEmail').removeClass('input_b_error'); 
+               $(".errorUserEmail").text("");
+            }
+        });
+
+        jQuery('#userName').keyup(function(){
+            var userFullName = $('#userName').val(); 
+            if(userFullName !=null && userFullName !=" "){
+                userFullName = userFullName.replace(/ +(?= )/g,'');
+               $('#userName').val(userFullName); 
+               $('.errorUserName').text("");
+               $('.userName').removeClass('input_b_error');
+            }else{
+               var userCheckFullName = userFullName.trim();
+               userCheckFullName = userCheckFullName.replace(/ +(?= )/g,'');
+               $('#userName').val(userCheckFullName);  
+            }
+        });
+
+        jQuery(".userPhone").bind('keypress', function (e) {
+            var keyCode = e.which ? e.which : e.keyCode
+            if (!(keyCode >= 48 && keyCode <= 57)) {
+                return false;
+            } else {
+               $('.userPhone').removeClass('input_b_error');      
+               $(".errorUserPhone").text("");
+            }
+        });
+
+      jQuery('#userPhone').keyup(function(){
+          var userPhone = $('.userPhone').val();
+          var onlyNumeric     = /^[0-9]{1,10}$/;
+          if(userPhone !="" && !onlyNumeric.test(userPhone)) {
+              $(".errorUserPhone").text("Allow only numeric.");
+              $('.userPhone').addClass('input_b_error');      
+              return false;
+          }else if(userPhone !="" && userPhone.length > 0 && userPhone.length <= 9 ){
+              $(".errorUserPhone").text("Minimum length should be 10 digit.");
+              $('.userPhone').addClass('input_b_error');    
+              return false;
+          }else {
+              $('.userPhone').removeClass('input_b_error');      
+              $(".errorUserPhone").text("");
+          }
+      });
+
+      jQuery(".userNoDeveloper").bind('keypress', function (e) {
+            var keyCode = e.which ? e.which : e.keyCode
+            if (!(keyCode >= 48 && keyCode <= 57)) {
+                return false;
+            } else {
+               $('.userNoDeveloper').removeClass('input_b_error');      
+               $(".errorUserNoDeveloper").text("");
+            }
+        });
+
+      jQuery('#userNoDeveloper').keyup(function(){
+          var userNoDeveloper = $('.userNoDeveloper').val();
+          var onlyNumeric     = /^[0-9]{1,10}$/;
+          if(userNoDeveloper !="" && !onlyNumeric.test(userNoDeveloper)) {
+              $(".errorUserNoDeveloper").text("Allow only numeric.");
+              $('.userNoDeveloper').addClass('input_b_error');      
+              return false;
+          }else {
+              $('.userNoDeveloper').removeClass('input_b_error');      
+              $(".errorUserNoDeveloper").text("");
+          }
+      });
+
+    jQuery(".requestForCallBack").click(function(){
+            var name = $('.userName').val();
+            var userEmailAddress = $('.userEmail').val();
+            var userPhone = $('.userPhone').val();
+            var userNoDeveloper = $('.userNoDeveloper').val();
+
+           if(countryCodeData==null || countryCodeData==undefined){
+                countryCodeData="+93";
+            }else{
+              countryCodeData=countryCodeData;
+            }
+            var emailValid = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            var onlyNumeric     = /^[0-9]{1,10}$/;
+
+            if(name==""){
+                $("#errorUserName").text("Name is required.");
+                $('.userName').addClass('input_b_error');
+                return false;
+            } else {
+                $('.userName').removeClass('input_b_error');  
+                $("#errorUserName").text("");
+            }
+            if(userPhone=="") {
+               $(".errorUserPhone").text("Phone number is required.");
+               $('.userPhone').addClass('input_b_error');  
+                return false;
+            }else if(userPhone !="" && !onlyNumeric.test(userPhone)){
+               $('.userPhone').addClass('input_b_error');  
+               $(".errorUserPhone").text("Allow only numeric.");
+                return false;
+            }else if(userPhone !="" && userPhone.length>0 && userPhone.length <= 9 ){
+                $('.userPhone').addClass('input_b_error'); 
+                $(".errorUserPhone").text("Minimum length should be 10 digit.");
+                return false;
+            }else {
+                $('.userPhone').removeClass('input_b_error'); 
+                $(".errorUserPhone").text("");
+            }
+
+            if(userEmailAddress=="") {
+               $(".errorUserEmail").text("Email is required.");
+               $('.userEmail').addClass('input_b_error'); 
+                return false;
+            } else {
+                $('.userEmail').removeClass('input_b_error'); 
+                $(".errorUserEmail").text("");
+            }
+
+            if (!emailValid.test(userEmailAddress)){
+                $('.userEmail').addClass('input_b_error'); 
+                $(".errorUserEmail").text("Please enter valid email address.");
+                return false;
+            } else {
+                $('.userEmail').removeClass('input_b_error'); 
+                $(".errorUserEmail").text("");
+            }
+
+            if(userNoDeveloper=="") {
+               $('.userNoDeveloper').addClass('input_b_error');  
+              $(".errorUserNoDeveloper").text("Number of developer is required.");
+                return false;
+            }else if(userNoDeveloper !="" && !onlyNumeric.test(userNoDeveloper)){
+               $('.userNoDeveloper').addClass('input_b_error');  
+               $(".errorUserNoDeveloper").text("Allow only numeric.");
+                return false;
+            }else {
+                $('.userNoDeveloper').removeClass('input_b_error'); 
+                $(".errorUserNoDeveloper").text("");
+            }
+                
+        // $(".loading-contact-us").css("display", "inline-block");
+        $(".spinner-request-for-call-back").css("display", "inline-block");
+
+        var name = $('.userName').val();
+        var userEmail = $('.userEmail').val();
+        var userPhone = $('.userPhone').val();
+        var userNoDeveloper = $('.userNoDeveloper').val();
+
+        var postData = {
+            action: 'request_for_call_back',
+            name: name,
+            userEmail: userEmail,
+            userPhone: userPhone,
+            userNoDeveloper: userNoDeveloper,
+            countryCode:countryCodeData,
+        }
+
+        $.ajax({
+            url: 'https://www.tridentspark.com/wp-admin/admin-ajax.php',
+            type: 'POST',
+            data:postData,
+            success: function (data) {
+                $("#errorRequestCallBack").text("");
+                // $('.contactSubmit').show();
+                if(data == "0") {
+                    $(".spinner-request-for-call-back").css("display", "none");
+                    $(".hiring_popup_success").css("display", "block");
+                    $(".hiring_form_section").css("display", "none");
+                    $('#userContactInformation').trigger("reset");
+                    setTimeout(function () {
+                    $(".hiring_popup_success").css("display", "none");
+                    $(".hiring_form_section").css("display", "block");
+                    }, 4000);
+                } else {
+                    $(".spinner-request-for-call-back").css("display", "none");
+                    $("#errorRequestCallBack").show();
+                    $("#errorRequestCallBack").text("Oops! something went wrong. please try again later.");
+                    setTimeout(function () {
+                        $('#errorRequestCallBack').hide();
+                    }, 4000);
+                }
+            },
+            error: function(error){
+                $(".loading-contact-us").css("display", "none");
+                $("#errorRequestCallBack").show();
+                $("#errorRequestCallBack").text("Oops! something went wrong. please try again later.");
+                setTimeout(function () {
+                    $('#errorRequestCallBack').hide();
+                }, 4000);
+            }
+        });
+
+      });
+    }); 
+</script>
+<script type="text/javascript">
+  // Fix header on scroll down
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 50) {
+        $('.cus_header').addClass('fix_header');
+    } else {
+        $('.cus_header').removeClass('fix_header');
+    }
+    // if ($(this).scrollTop() >= 50) {
+    //     $('.cus_header').css({'background' : '#fff', 'position' : 'fixed'});
+    // } else {
+    //    $('.cus_header').css({'background' : 'transparent', 'position' : 'inherit'});
+    // }
+  });
+
+  if($(window).width() < 700) {
+        $('.lnk_lbl_1').addClass('mobileMenu');
+        // $('.sb_menu_2 ul').css('display','none');
+        // $('.sb_menu_2 ').addClass('childMenu');
+
+        $('.lnk_lbl_1').removeClass('desktopMenu');
+      }else{
+        $('.lnk_lbl_1').removeClass('mobileMenu');
+        $('.lnk_lbl_1').addClass('desktopMenu');
+        // $('.sb_menu_2 ul').css('display','block');
+        // $('.sb_menu_2 ul').removeClass('childMenu');
+  }
+
+  // on click active/unactive menu
+  $(function() {
+    var current = window.location.href;
+    $('.nav_con li ').each(function() {
+      var $this = $(this);
+      var id = $this.attr('id');
+      if ($this.attr('id') == '') {
+        $this.addClass('active');
+      } else if (current.includes(id)) {
+        $this.addClass('active');
+        $('.nav_con li .sb_menu_2 li a').each(function() {
+          var $this = $(this);
+          var newId = $this.attr('id');
+          if (current.includes(newId)) {
+            $this.addClass('active');
+          }
+        });
+      }
+    });
+  });
+
+
+  // Hide show mega menu on mobile device
+  $(document).ready(function() {
+    let alreadyid;
+    $('.desktopMenu').click(function(){
+      $('.desktopMenu').removeClass("showDropMenu");
+      $(this).addClass("showDropMenu");
+        // $(this).toggleClass();
+    });
+
+  $(".mobileMenu").click(function(e) {
+    $('.sb_menu_2').removeClass("childMenu")
+    var $this = $(this);
+    var getOneId = $this.attr('id');
+    if($('*').hasClass('showDropMenu')){
+        if(alreadyid == getOneId){
+          alreadyid=getOneId;
+          $('.lnk_lbl_1').removeClass("showDropMenu")
+        }else{
+          alreadyid=getOneId;
+          $('.lnk_lbl_1').removeClass("showDropMenu");
+          $(this).addClass("showDropMenu");
+        }
+    }else{
+        alreadyid=getOneId;
+        $(this).toggleClass("showDropMenu");
+     }
+  });
+
+    $('.sb_menu_2').click(function(e){
+    e.stopPropagation();
+    var $this = $(this);
+    var getOneId = $this.attr('id');
+    if($('*').hasClass('childMenu')){
+        if(alreadyid == getOneId){
+          alreadyid=getOneId;
+          $('.sb_menu_2').removeClass("childMenu")
+        }else{
+          alreadyid=getOneId;
+          $('.sb_menu_2').removeClass("childMenu");
+          $(this).addClass("childMenu");
+        }
+    }else{
+        alreadyid=getOneId;
+        $(this).toggleClass("childMenu");
+    }
+        // window.location.reload();
+    });
+  // <!-- open hire popup -->
+    $('.hiring_popup_open').click(function(e){
+        var title = $(this).attr("data-title");
+        var description = $(this).attr("data-description");
+        $('.hiring_popup_show').css("display",'block');
+        $('.hiring_title').text(title);
+        $('.hiring_description').text(description);
+        $('body').addClass('hiring_body_scroll');
+    });
+  // <!-- close hire popup -->
+    $('.hiring_popup_hide').click(function(e){
+        $('.hiring_popup_show').css("display",'none');
+        $( "body" ).removeClass( "hiring_body_scroll" )
+    });
+  });
+
+  $('.toggle_menu').on('click',function () {
+      $('.nav_con').toggleClass('open_menu');
+  });
+  jQuery(document).ready(function(){
+      jQuery('.countryCodeSearch').select2({});
+    var countrylist = countryList;
+    var countryShow;
+    for (let index of countryList) {
+      countryShow += '<option value="'+ index['dial_code']+'">'+ index['dial_code'] +' ('+index['code']+')'+'</option>';
+    }
+    $(".countryCodeData").html(countryShow)
+  });
+</script>
+
+<!-- AOS animation script -->
+<script>
+  AOS.init();
+</script>
+
+<style type="text/css">
+    .shopify_info_banner { background: #000; padding: 10px; }
+    .shopify_info_banner p { margin: 0; padding: 0; color: #fff; text-align: center; font-size: 13px; line-height: 16px; font-weight: 500;  display: flex; align-items: center; justify-content: center; gap:5px;  }
+    .shopify_info_banner p span { display: flex; align-items: center; justify-content: center; gap: 5px;  }
+    .shopify_info_banner p a { color: #f77a40; text-decoration: underline !important; }
+
+  .page-id-3468 .nav_con { height: 100px; padding: 27px 0; }
+
+  #main section:first-child { padding-top: 80px; }
+  .toggle_menu { display: none; }
+  .pl_scnd_col { padding-left: 4%; }
+  .pl_tdr_col { padding-left: 7%; }
+  /*  nav input { display: none; }*/
+  .mega_vew_snd .content ul li { margin: 0 0 18px; }
+  .mega_vew_snd .content ul .sub_menu { margin: 0 0 8px; }
+  .mega_vew_snd .content ul li a.sb_mnu_link { font-size: 16px; line-height: 26px; font-weight: 400; color: #2E2E2E; text-decoration: none; padding: 6px 0px; margin: 0 0px; transition: all 0.1s ease; display: block; }
+  .mega_vew_snd .content ul li a.sb_mnu_link:hover { color: #e67e22; }
+
+  .sub_menu2 { font-size: 18px; line-height: 24px; font-weight: 600; }
+
+  .sb_menu_2 ul li .sb_mnu_link2 { display: flex; align-items: center; font-size: 17px; line-height: 23px; font-weight: 500; color: #5d5d5d; margin: 0; padding: 7px 0; width: 100%; }
+  .sb_menu_2 ul li .sb_mnu_link2:hover { color: #f77a40; }
+  .sb_menu_2 ul li .sb_mnu_link2 img { max-width: 28px; width: 28px; max-height: 28px; height: 100%; margin: 0 12px 0 0; }
+
+  .mega_vew_snd .content ul li a.sb_mnu_link:hover { color: #000; }
+
+  /*.cus_header { background: transparent; transition: height .1s ease-in; position: relative; z-index: 10; }
+  .cus_header.fix_header { width: 100%; position: fixed; top: 0; background: #fff; z-index: 10; border-bottom: 1px solid #ebebeb; }*/
+
+  .cus_header { background: #fff; transition: height .1s ease-in; z-index: 10;  width: 100%; }
+  .cus_header.fix_header { border-bottom: 1px solid #ebebeb; position: fixed; top: 0; }
+
+  .page-id-43 .cus_header { background: transparent; }
+  .page-id-43 .cus_header.fix_header { background: #fff;}
+
+  .nav_con { display: flex; align-items: center; justify-content: space-between; }
+  .nav_con .site_logo a { text-decoration: none; display: inline-block; }
+  .nav_con .site_logo a img { max-height: 48px; }
+  .nav_con ul { display: block; margin: 0px; padding: 0px; }
+  .nav_con ul li { list-style: none; }
+  .nav_con ul li a { font-size: 18px; line-height: 28px; font-weight: 400; color: #2E2E2E; text-decoration: none; padding: 9px 5px; margin: 0 11px; transition: all 0.1s ease; display: inline-block; }
+  .nav_con ul li .ank_link { font-size: 18px; line-height: 28px; font-weight: 500; color: #2E2E2E; text-decoration: underline 0px transparent !important; padding: 9px 5px; margin: 0 11px; transition: all 0.1s ease; display: inline-block; cursor: pointer; }
+  .nav_con ul li .ank_link img { max-width: 36px; }
+  .nav_con ul li a:hover { color: #000; }
+
+  .nav_con ul li.ts_email a { padding: 4px; margin: 0 0 0 8px; }
+  .nav_con ul li.ts_whatsapp a { padding: 4px; margin: 0 0 0 8px; }
+
+  .lnk_lbl_1 .ank_link { border-bottom: 4px solid transparent; border-radius: 3px; }
+  .lnk_lbl_1.active .ank_link { border-bottom: 4px solid #f77a40; }
+  .lnk_lbl_1 .ank_link:hover { border-bottom: 4px solid #f77a40; }
+  .lnk_lbl_1.ts_email .ank_link:hover { border-bottom: 4px solid transparent; }
+  .lnk_lbl_1.ts_whatsapp .ank_link:hover { border-bottom: 4px solid transparent; }
+
+  .sb_menu_2 ul li .sb_mnu_link2.active { color: #f77a40; }
+
+  .nav_con ul li a.ts_btn { padding: 8px 14px; }
+  .nav_con ul li a.ts_btn.btn_solid { color: #fff !important; margin-left: 22px; }
+  .nav_con ul li a.ts_btn:hover { color: #fff; }
+  .nav_con ul li a.ts_btn:last-child { margin-right: 0px; }
+
+
+  .mega_menu_box {position: fixed; left: 0; width: 100vw; top: 140px; display: none; background: #f8fdfb; box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); border-top: 1px solid #feebe3; padding: 20px 0 28px; z-index: 9; }
+
+  .nav_con ul .mobile-item { display: none; }
+  .nav_con ul .drop-menu { position: absolute; background: #242526; width: 180px; line-height: 45px; top: 85px; display: none; box-shadow: 0 6px 10px rgba(0,0,0,0.15); }
+  .nav_con ul li .mega_menu_link img { display: inline-block; margin: 0 0 0 4px; }
+  .nav_con ul li:hover .mega_menu_link img { transform: rotate(180deg); transition: all 0.1s ease; }
+  .nav_con ul li:hover .drop-menu,
+  .nav_con ul li:hover .mega_menu_box { transition: all 0.1s ease; display: block; }
+  .drop-menu li a { width: 100%; display: block; padding: 0 0 0 15px; font-weight: 400; border-radius: 0px; }
+  .content .row header { color: #f2f2f2; font-size: 20px; font-weight: 500; }
+  .lnk_lbl_1 .ts_btn { font-weight: 500; }
+
+  .mega_box_tlt { font-size: 26px; line-height: 30px; margin: 4px 0 4px; }
+
+  /* .nav_con .btn { color: #fff; font-size: 20px; margin: 0px; cursor: pointer; display: none; }*/
+
+  .mega_menu_box .sub_menu img { max-width: 24px; max-height: 24px; width: 100%; height: 100%; margin: 0 12px 0 0; display: inline-block; }
+
+  .lnk_lbl_1 { display: inline-flex; align-items: center; min-height: 100px; }
+
+  .web_logo { display: inline-block; }
+  .tab_logo { display: none; }
+
+  .mega_menu_box .row .col-md-4 { position: relative; }
+  .mega_menu_box .mmi_col ul { display: block; }
+  .mega_menu_box .mmi_col ul li .sub_menu { margin: 8px 0 0; }
+  .mega_menu_box .mmi_col ul li .sub_menu .sub_menu_tlt { display: flex; align-items: center; font-weight: 600; font-size: 18px; color: #000; }
+  .mega_menu_box .mmi_col ul li .sub_menu:hover .sub_menu_tlt { color: #f77a40; }
+  .mega_menu_box .mmi_col ul li .sub_menu .sub_mnu_dis { font-size: 14px; line-height: 19px; padding-left: 36px; float: left; width: 250px; font-weight: 400; color: #818181; margin: 1px 0 0; }
+
+  .mob_menu_header { display: none; }
+
+  .mmi_cl_tlt { font-size: 20px; line-height: 24px; font-weight: 600; padding: 0px; margin: 0 0 0; }
+  .mega_menu_box .row .rw_col { position: relative; }
+  .mega_menu_box .row .rw_col:before { position: absolute; content: ''; width: 1px; height: 100%; background: #c1c1c1; top: 0; right: 6%; }
+  .mega_menu_box .row .rw_col:last-child:before { display: none; }
+
+  a.sub_menu.active:after { display: none; }
+
+  .mega_menu_box.mega_vew_snd { height: calc(100vh - 100px); overflow-y: auto; }
+  .con_rows { column-width: 300px; column-count: 4; }
+
+  .mega_menu_box.mega_vew_snd .row .rw_col:before { display: none; }
+  .mega_vew_snd .sub_menu_tlt { font-size: 18px !important; font-weight: 600 !important; }
+  .mega_vew_snd .sub_menu img { max-width: 28px; max-height: 28px; }
+  .mega_vew_snd .mmi_col ul li p { font-size: 18px; line-height: 24px; padding-left: 0; font-weight: 600; color: #212529; margin: 0 0 18px; }
+  .mega_vew_snd .mmi_col ul li p:hover { color: #000000; }
+
+
+@media (min-width: 1201px) and ( max-width: 1440px) { 
+
+.site-main { margin-bottom: 40px; }
+.whatsapp_button span { font-size: 14px; }
+
+ }
+
+  @media (max-width: 1660px) {
+    .nav_con ul li a { font-size: 16px; line-height: 24px !important; }
+    .nav_con .site_logo a img { max-height: 44px; }
+    .lnk_lbl_1 { min-height: 75px; }
+    .nav_con ul li .ank_link { font-size: 16px; line-height: 25px; }
+    .mega_menu_box { top: 116px; }
+     .page-id-3468 .nav_con { height: auto; padding: 16px 0; }
+
+  }
+
+  @media (max-width: 1460px) {
+    .nav_con ul li .ank_link { font-size: 15px; margin: 0 9px; }
+    .nav_con ul li a { font-size: 15px; line-height: 23px !important; }
+    .nav_con .site_logo a img { max-height: 40px; }
+    
+  }
+
+  @media (max-width: 1400px) {
+    .nav_con ul li a { font-size: 14px; line-height: 20px !important; }
+    .nav_con ul li .ank_link { font-size: 14px; margin: 0 8px; }
+    .nav_con .site_logo a img { max-height: 38px; }
+    .nav_con ul li .ank_link img { max-width: 34px; }
+  }
+
+  @media (max-width: 1360px) {
+    .nav_con ul li .ank_link { font-size: 13px; font-weight: 600; }
+    .nav_con ul li a { font-size: 13px; line-height: 20px !important; }
+  }
+
+  @media (max-width: 1260px) {
+    .nav_con ul li a { font-size: 12px; line-height: 18px !important; padding: 9px 3px; }
+    .nav_con ul li .ank_link img { max-width: 26px; }
+  }
+
+  @media screen and (min-width: 1024px) and (max-width: 1200px) {
+    .web_logo { display: none; }
+    .tab_logo { display: inline-block; }
+  }
+
+  @media screen and (min-width: 1024px) and (max-width: 1060px) {
+    .nav_con ul li .ank_link { margin: 0 6px; }
+    .page-id-3468 .whatsapp_button { padding: 0px 0px 0 0px; width: 100%; }
+  }
+
+  @media screen and (max-width: 1023px) {
+    .toggle_menu { display: block; }
+    .container { max-width: 100% !important; }
+    .pl_scnd_col { padding-left: calc(var(--bs-gutter-x) * .5); }
+    .pl_tdr_col { padding-left: calc(var(--bs-gutter-x) * .5); }
+    .cus_header { background: #fff; }
+
+    .mega_menu_box .row { margin: 0px; }
+    .nav_con { height: 65px; }
+    /*  .nav_con .btn { display: block; }*/
+
+    /*.mob_head_sly #menu-btn:checked ~ ul { left: 0%; }
+    .mob_head_sly #menu-btn:checked ~ .btn.menu-btn { display: none; }
+    .mob_head_sly #close-btn:checked ~ .btn.menu-btn { display: block; }*/
+
+    .nav_con ul li a { padding: 22px 28px; display: block; font-size: 18px !important; color: #000; margin: 0; border-bottom: 1px solid #ddd; }
+    .nav_con ul li .ank_link { padding: 22px 28px; display: block; font-size: 18px; color: #000; margin: 0; border-bottom: 1px solid #ddd; }
+    .nav_con ul li .mega_menu_link { display: flex; align-items: center; justify-content: space-between; font-size: 18px; line-height: 18px; color: #000; margin: 0; border-bottom: 1px solid #ddd; }
+    .nav_con ul .drop-menu { position: static; opacity: 1; top: 65px; visibility: visible; padding-left: 20px; width: 100%; max-height: 0px; overflow: hidden; box-shadow: none; transition: all 0.1s ease; }
+
+    /*#showDrop:checked ~ .drop-menu,
+    #showMega:checked ~ .mega_menu_box { max-height: 100%; }*/
+
+    .nav_con ul .desktop-item { display: none; }
+    .nav_con ul .mobile-item { display: block; color: #f2f2f2; font-size: 20px; font-weight: 500; padding-left: 20px; cursor: pointer; border-radius: 5px; }
+    .nav_con ul .mobile-item:hover { background: #3A3B3C; }
+    .drop-menu li { margin: 0; }
+    .drop-menu li a { border-radius: 5px; font-size: 18px; }
+
+    .mega_menu_box .content .row { width: 100%; border-top: 1px solid rgba(255,255,255,0.08); }
+    .mega_menu_box .content .row:nth-child(1),
+    .mega_menu_box .content .row:nth-child(2) { border-top: 0px; }
+    .content .row header { font-size: 19px; }
+
+    .mmh_l img { max-height: 38px; }
+    /*  .mmh_r .close-btn { padding: 0px; margin: 0px; border: none; border-radius: 0px; }*/
+    .mmh_r img { max-width: 24px; }
+
+    .nav_con ul li a.active:after { display: none; }
+    .nav_con ul li a.active { color: #f77a40; }
+    .nav_con ul li a.ts_btn { display: block; min-width: 43%; max-width: 87%; margin: 36px auto 20px !important; padding: 12px 24px; text-align: center; border: 1px dashed #F77A40; }
+
+    .mega_vew_snd .content ul li:last-child { margin: 0; }
+    .mega_vew_snd ul { display: none; }
+    .mega_vew_snd .childMenu ul { display: block; }
+
+    .mob_head_sly .nav_head { display: flex; align-items: center; justify-content: space-between; width: 100%; }
+    .mob_head_sly .nav_menu_links { padding: 65px 0 50px; position: fixed; height: 100vh; width: 100%; max-width: 100%; top: 0; left: -100%; background: #fff; display: block; line-height: 50px; overflow-y: auto; transition: all 0.1s ease; z-index: 10; }
+    .mob_head_sly .nav_menu_links .mob_menu_header { display: flex; align-items: center; justify-content: space-between; height: 65px; padding: 0 12px; position: fixed; top: 0px; left: 0px; width: 100%; z-index: 10; background: #fff; border-bottom: 1px solid #ebebeb; }
+
+    .mob_head_sly .open_menu .nav_menu_links { left: 0%; }
+
+    .mob_head_sly .mega_menu_box { position: inherit; overflow: visible; height: 100%; width: 100%; display: block; max-height: 100%; padding: 0 20px; transition: all 0.1s ease; box-shadow: none; border-top: none; visibility: visible; opacity: 1; background: #feebe3; }
+    .mob_head_sly .mega_menu_box .content { box-shadow: none; padding: 0px 0 0; display: block; width: 100%; }
+    .mob_head_sly .mega_menu_box .row .rw_col { position: inherit; display: block; width: 100%; height: 100%; padding: 0px; }
+    .mob_head_sly .mmi_col .mmi_cl_tlt { display: block; font-size: 18px; line-height: 22px; font-weight: 600; padding: 0px; margin: 15px 0 8px; }
+    .mob_head_sly .mmi_col ul { position: inherit; height: auto; overflow: visible; }
+    .mob_head_sly .mmi_col ul li .sub_menu { padding: 16px 28px; border-bottom: 1px solid #fff; margin: 0; }
+    .mega_menu_box .mmi_col ul li .sub_menu .sub_menu_tlt { font-weight: 500; font-size: 15px; }
+
+    /* .mob_head_sly .rw_col:first-child ul li:first-child .sub_menu { border-bottom: 1px solid #fff; }*/
+
+    .mob_head_sly .rw_col:last-child .mmi_col ul li:last-child .sub_menu { border-bottom: none; }
+    .mob_head_sly .mega_menu_box .mmi_col ul li p { float: none; width: 100%; display: none; }
+    .mob_head_sly .mega_menu_box .row .rw_col:before { display: none; }
+    .mob_head_sly .nav_con .nav_menu_links .lnk_lbl_1 { margin: 0px; display: block; min-height: auto; height: auto; }
+    .mob_head_sly .mega_box_tlt { display: none; text-align: left; font-size: 20px; line-height: 26px; margin: 0 0 18px; }
+
+    .mob_head_sly .lnk_lbl_1 .mega_menu_box { display: none; transition: all 0.1s ease; }
+    .mob_head_sly .lnk_lbl_1.showDropMenu .mega_menu_box { display: block; transition: all 0.1s ease; }
+
+    .mob_head_sly .showDropMenu .mega_menu_link { border-bottom: none; }
+    .mob_head_sly .showDropMenu .mega_menu_box { border-bottom: 1px solid #ddd; }
+
+    .mob_head_sly .mega_menu_box .sb_menu_2 { display: block; padding: 0px; }
+    .sb_menu_2 ul li .sb_mnu_link2 { font-size: 15px !important; line-height: 18px; font-weight: 500; color: #000000; margin: 0; padding: 16px 10px; border-bottom: 1px solid #fff; }
+
+    .sb_menu_2 .childMenu { display: none !important; }
+
+    .lnk_lbl_1 .ank_link { border-bottom: 2px solid transparent; }
+    .lnk_lbl_1.active .ank_link { border-bottom: 2px solid #f77a40; }
+    .lnk_lbl_1 .ank_link:hover { border-bottom: 1px solid #ddd; }
+
+    .sub_menu2 { font-size: 16px; line-height: 20px; font-weight: 500; position: relative; padding: 16px 8px; margin: 0px; border-bottom: 1px solid #cbcbcb; }
+    .sub_menu2:after { content: ''; position: absolute; width: 18px; height: 16px; background: url(/wp-content/uploads/2023/05/down_arrow.svg) center no-repeat; right: 5px; }
+    .childMenu .sub_menu2:after { transform: rotate(180deg); }
+    .mega_vew_snd .sb_menu_2:last-child .sub_menu2:last-child { border-bottom: none; }
+
+    .lnk_lbl_1.showDropMenu .mega_menu_link img { transform: rotate(180deg); transition: all 0.1s ease; }
+    /*.nav_con .nav_head { display: block; }
+    .nav_con .nav_head { display: block; }*/
+
+    .mob_head_sly .nav_con .nav_head { display: flex; }
+    .mob_head_sly .nav_con .mob_menu_header { display: none; }
+
+    .mob_head_sly .nav_con.open_menu .nav_head { display: none; }
+    .mob_head_sly .nav_con.open_menu .mob_menu_header { display: flex; }
+
+    .mob_head_sly .nav_con .lnk_lbl_1.ts_whatsapp, .mob_head_sly .nav_con .lnk_lbl_1.ts_email { display: none; }
+  }
+
+
+  @media screen and (max-width: 460px) {
+    .mob_head_sly .mega_menu_box { padding: 0 0px; }
+    .sb_menu_2.childMenu ul { position: relative; z-index: 0; }
+    .sb_menu_2.childMenu ul:before { content: ''; position: absolute; width: 100vw; height: 100%; background: #f77a4012; left: -18px; top: 0; margin: 0 auto; z-index: -1; }
+    .sb_menu_2.childMenu .sub_menu2 { border-bottom: 1px solid transparent; }
+    /*.nav_con ul li:hover .mega_menu_link img { transform: inherit; }*/
+    .mega_vew_snd .col-md-3:last-child .sub_menu2 { border-bottom: none; }
+  }
+
+
+  /* Hiring Popup */
+    .hiring_body_scroll { overflow: hidden; }
+    .hiring_popup_success { display: none; }
+    .hire_popup_body { background: #FEF6F1; display: none; }
+    .hiring_popup_show { position: fixed; top: 0px; left: 0px; width: 100vw; height: 100vh; z-index: 10; overflow-x: hidden; overflow-y: auto; }
+    .hpb_head { text-align: center; padding: 44px 0 0; }
+    .close_icn { position: absolute; right: 48px; top: 48px; cursor: pointer; }
+    .hiring_fom_con { padding: 20px 0 40px; }
+    .hiring_fom_con .form_box { background: #FFFFFF; border: 1px solid #f77a4052; box-shadow: none; border-radius: 10px; padding: 26px 32px; max-width: 680px; margin: 0 auto; }
+    .fld_country_code { margin: 0px; }
+
+    .succ_call_con { background: #FFFFFF; border: 1px solid #f77a4052; box-shadow: none; border-radius: 10px; padding: 26px 32px; max-width: 680px; margin: 20px auto 40px; text-align: center; }
+
+    .select2-container { width: 100% !important; }
+    .select2-container--default .select2-selection--single { background-color: #fff; border: 1px solid #ced4da; border-radius: 5px; height: 40px; padding: 9px 20px; }
+    .select2-container .select2-selection--single .select2-selection__rendered { padding-left: 0px; font-size: 14px; font-weight: 400; }
+    .select2-container--default .select2-selection--single .select2-selection__rendered { color: #000; line-height: 22px; }
+    .select2-container--default .select2-selection--single .select2-selection__arrow { height: 38px; right: 6px; }
+    .select2-results__option--selectable { font-size: 14px; }
+    .select2-container--default .select2-results__option--selected { background-color: #f77a40; color: #fff; }
+    .select2-container--default .select2-results__option--highlighted.select2-results__option--selectable { background-color: #fef6f1; color: #f77a40; }
+    .select2-dropdown { border: 1px solid #ced4da; }
+    .select2-container--default .select2-search--dropdown .select2-search__field { border: 1px solid #ced4da; margin: 0; padding: 2px 12px; border-radius: 4px; }
+    .select2-results__option { padding: 6px 14px; color: #818181; }
+    .select2-results__message { text-align: center; font-size: 13px; }
+
+
+  @media (max-width: 767px) {
+    .hiring_fom_con .form_box { border-radius: 5px; padding: 22px 24px; }
+    .hiring_fom_con { padding: 16px 0 50px; }
+    .hpb_head { padding: 15px 0 0; }
+    .close_icn { right: 16px; top: 16px; }
+    .close_icn img { max-width: 28px; }
+    .hpb_head .fs_24 { font-size: 16px; line-height: 24px; } 
+    .fld_country_code { display: flex; }
+    .fld_country_code .col-md-3 { width: 35%; }
+    .fld_country_code .col-md-9 { width: 65%; }
+    .input_dropdown .select2-container--default .select2-selection--single { height: 35px; padding: 7px 10px; }
+
+
+      .shopify_info_banner p { flex-direction: column; }
+    .shopify_info_banner { padding: 5px 0px; }
+    .shopify_info_banner p a { font-size: 11px !important; }
+    .shopify_info_banner p span { font-size: 11px !important; }
+  }
+</style>
+
+
+
+<!-- dynemic text function for top black banner  -->
+ <!-- <script src="script.js"></script> -->
+<script type="text/javascript">
+function updateTextBasedOnTime() {
+    const dynamicTextElement = document.getElementById('dynamicText');
+  
+    const now = new Date();
+let hours = now.getHours();
+// let period = hours >= 12 ? 'PM' : 'AM';
+hours = hours % 12 || 12; // Convert 24-hour format to 12-hour format
+
+// console.log(`Current time: ${hours} ${period}`);
+    let text;
+
+    // Change text based on 4-hour intervals
+    if (hours >= 0 && hours < 4) {
+        text = "Accelerate Sales: Free Shopify Webinar—Reserve Your Spot!";
+    } else if (hours >= 4 && hours < 8) {
+        text = "Boost Your Shopify Store with Exclusive Plugins!";
+    } else if (hours >= 8 && hours < 12) {
+        text = "Learn How to Scale Your Shopify Business in 2024!";
+    } else {
+        text = "Accelerate Sales: Free Shopify Webinar—Reserve Your Spot!";
+    }
+
+    dynamicTextElement.textContent = text;
+}
+
+// Update text on page load
+updateTextBasedOnTime();
+
+// Optionally, set an interval to update the text periodically
+setInterval(updateTextBasedOnTime, 60000); // Update every minute
+</script>	
+
+</div>
+
+<link href="https://www.tridentspark.com/wp-content/themes/twentytwentyone/../twentytwentyone-child/technologies/tech-style.css" rel="stylesheet">
+
+<div class="angular_page">
+		<section class="mob_idea_con">
+		<div class="mob_idea_box">
+			<div class="container">
+				<div class="mob_idea_cnt">
+					<div class="script_section" style="display: none;"><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How experienced are the MERN stack developers at Trident Spark?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Our MERN stack developers are highly experienced professionals with a proven track record in delivering successful projects. They possess in-depth knowledge of the MERN stack technologies and stay updated with the latest trends and best practices"
+    }
+  },{
+    "@type": "Question",
+    "name": "Can I hire MERN stack developers on a full-time or part-time basis?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we offer flexible hiring options based on your project requirements. You can hire our MERN stack developers on a full-time, part-time, or hourly basis, depending on your specific needs."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can your MERN stack developers work on existing projects or join an ongoing development team?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Absolutely! Our MERN stack developers are skilled at seamlessly integrating into existing projects and collaborating with other team members. They can join your ongoing development team and contribute their expertise effectively."
+    }
+  },{
+    "@type": "Question",
+    "name": "What level of involvement will I have when working with your MERN stack developers?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We believe in transparent and open communication throughout the development process. When you hire our MERN stack developers, you will have direct communication with them to discuss project requirements, provide feedback, and stay updated on the progress. We prioritize your involvement to ensure your satisfaction."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do your MERN stack developers follow agile development practices?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we follow agile methodologies in our development process. Our MERN stack developers are experienced in agile practices, allowing for flexibility, iterative development, and frequent communication to adapt to changing project needs."
+    }
+  }]
+}
+</script></div>
+					<h1 class="fs_50 tc_b fw_5 mb_24">Company with Best <span class="tc_orn">MERN Development</span> Service</h1>
+					<p class="fs_24 tc_lb fw_4 mb_18">Are you looking for a MERN stack developer? Introducing Trident Spark, the torchbearer of excellence in front-end MERN development services. With a fusion of talent, innovation, and meticulous craftsmanship, we ignite the digital realm with unparalleled brilliance.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<div class="bw_two_sec_buble">
+		<img src="https://www.tridentspark.com/wp-content/uploads/2023/12/wtbn-sctn_bubble_min.png" class="img-fluid">
+	</div>
+
+		<section class="about_service_sectn">
+		<div class="container">
+			<div class="about_service_con">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="asc_img web_item">
+							<img src="https://www.tridentspark.com/wp-content/uploads/2023/07/mern-stack-development-company-1.png" class="img-fluid">
+						</div>
+					</div>
+					<div class="col-md-8">
+						<div class="asc_cntnt">
+							<h2 class="fs_48 fw_5 tc_b mb_32">Mern Stack Development Services</h2>
+							<p class="fs_18 fw_4 tc_lb mb_16">Embark on a journey of digital transformation with our comprehensive MERN stack development services. At Trident Spark, we use MongoDB, Express.js, React.js, and Node.js to build impressive web applications that attract and involve users. Our talented team will guide you through the entire process, from planning to launching, creating user-friendly interfaces, strong backend systems, and smooth integration.</p>
+							<div class="asc_img mob_item">
+								<img src="https://www.tridentspark.com/wp-content/uploads/2023/07/mern-stack-development-company-1.png" class="img-fluid">
+							</div>
+
+														<div class="chip_box_con">
+																		<span class="chip_box">E-Commerce Web Applications</span>
+																				<span class="chip_box">CMS Development</span>
+																				<span class="chip_box">Custom App Development</span>
+																				<span class="chip_box">Enterprise Apps</span>
+																				<span class="chip_box">Migration & Porting</span>
+																				<span class="chip_box">Front-End & Back-End Designing</span>
+																	</div>
+							  
+							<button type="button" class="ts_btn btn_solid hiring_popup_open" data-title="Hire MERN Stack Developer" data-description="As an MERN Stack development service provider, we provide a wide range of skills and services to help your MERN Stack projects.">Hire Mern Stack Developer</button>
+						</div>
+					</div>
+				</div>
+								<div class="ass_dis">
+					<p class="fs_18 fw_4 tc_lb mb_24">Why to Choose Us? Choosing us for your MERN stack development needs means partnering with a team driven by excellence, innovation, and a commitment to your success.</p>
+					<p class="fs_18 fw_4 tc_lb mb-0">Our team boasts extensive expertise in MERN stack development, with a deep understanding of each component - MongoDB, Express.js, React.js, and Node.js.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+		<section class="dev_process_sectn">
+		<div class="dps_head">
+			<h2 class="fs_50 tc_b fw_5 mb_24">Features of <span class="tc_orn">MERN Stack  Development</span></h2>
+			<p class="fs_24 tc_lb fw_4 mb-0 mw_1k">Prepare to be amazed by the mind-blowing features of MERN stack development. Here are some of the standout features that make MERN stack a force to be reckoned with:</p>
+		</div>
+		<div class="container">
+			<div class="process_keys_contianer">
+				<div class="pkc_l">
+					<div class="pkc_l_box">
+												<div class="pkc_card pkc_crd_1">
+							<span class="pkc_dot_point"></span>
+							<p class="pkc_crd_tlt">Full Stack Capabilities</p>
+							<p class="pkc_crd_dis">MERN stack encompasses the entire web development spectrum, from front-end to back-end.</p>
+						</div>
+			      						<div class="pkc_card pkc_crd_2">
+							<span class="pkc_dot_point"></span>
+							<p class="pkc_crd_tlt">JavaScript Synergy</p>
+							<p class="pkc_crd_dis">MERN stack leverages the power of JavaScript throughout the entire development process which ensures consistent code syntax, efficient data flow, and ease of maintenance. </p>
+						</div>
+			      						<div class="pkc_card pkc_crd_3">
+							<span class="pkc_dot_point"></span>
+							<p class="pkc_crd_tlt">Reusability and Modularity</p>
+							<p class="pkc_crd_dis">MERN stack promotes code reusability and modularity. With React.js, components can be created and reused across the application, allowing for efficient development and easier maintenance. </p>
+						</div>
+			      					</div>
+				</div>
+
+								<div class="pkc_c">
+					<div class="pkc_crl_w rotete_bacwd">
+						<div class="pkc_crl_ong_bdr rotete_forwd">
+							<div class="pkc_crl_ong">
+								<img src="https://www.tridentspark.com/wp-content/uploads/2023/07/mern-stack-icon-1.png" class="img-fluid">
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="pkc_r">
+					<div class="pkc_r_box">
+												<div class="pkc_card pkc_crd_4">
+							<span class="pkc_dot_point"></span>
+							<p class="pkc_crd_tlt">Real-time Updates</p>
+							<p class="pkc_crd_dis">MERN stack applications can easily incorporate real-time updates and data synchronization such as instant messaging, live chat features, etc.</p>
+						</div>
+			      						<div class="pkc_card pkc_crd_5">
+							<span class="pkc_dot_point"></span>
+							<p class="pkc_crd_tlt">Scalability and Performance</p>
+							<p class="pkc_crd_dis">MERN stack is designed to handle high-traffic and demanding applications. MongoDB's flexible and scalable NoSQL database architecture, combined with the event-driven nature of Node.js.</p>
+						</div>
+			      						<div class="pkc_card pkc_crd_6">
+							<span class="pkc_dot_point"></span>
+							<p class="pkc_crd_tlt">Single-page Application (SPA) Architecture</p>
+							<p class="pkc_crd_dis">SPAs provide a seamless and interactive user experience by loading the entire application once and dynamically updating the content without page reloads. </p>
+						</div>
+			      					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+
+		<section class="recent_projects_section" style="background:#fff;">
+		<div class="container">
+			<div class="text-center">
+				<h2 class="fs_50 tc_b fw_5 mb_24">Recent Projects On<span class="tc_orn"> MERN Stack </span> Development</h2>
+				<p class="fs_24 tc_lb fw_4 mb-0 mw_1k">MERN Stack Development is a well-known open-source framework for developing online apps. It has a number of features that make development more efficient and scalable.</p>
+			</div>
+
+								<div class="row project-thumbnail">
+														<div class="col-md-4">
+									<div class="rpr_card">
+										<div class="project-img">
+											<img src="https://www.tridentspark.com/wp-content/uploads/2023/08/stem_crd_img.png" alt="Trident Spark Project">
+										</div>
+										<div class="project-content">
+											<h4>STEM The Gap Academy</h4>
+											<p>This is a Canada-based project, where the client's requirement was a Chess Academy website to support their business objectives.</p>
+											<div class="apply-now-btn">
+												<a href="https://www.stemthegapacademy.com" target="_blank">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+																<div class="col-md-4">
+									<div class="rpr_card">
+										<div class="project-img">
+											<img src="https://www.tridentspark.com/wp-content/uploads/2023/08/remoteFspain_crd_img.png" alt="Trident Spark Project">
+										</div>
+										<div class="project-content">
+											<h4>Remote From Spain</h4>
+											<p>This is a Spain-based project, where the client's requirement was a Visa-based website to support their business objectives.</p>
+											<div class="apply-now-btn">
+												<a href="https://www.remotefromspain.com" target="_blank">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+																<div class="col-md-4">
+									<div class="rpr_card">
+										<div class="project-img">
+											<img src="https://www.tridentspark.com/wp-content/uploads/2023/08/debut_crd_img.png" alt="Trident Spark Project">
+										</div>
+										<div class="project-content">
+											<h4>Debut Group</h4>
+											<p>This is a Canada-based project, where the client's requirement was a research-based website to support their business objectives.</p>
+											<div class="apply-now-btn">
+												<a href="https://www.debutgroup.com" target="_blank">Visit Website</a>
+											</div>
+										</div>
+									</div>
+								</div>
+												</div>
+					</div>
+</section>
+
+
+				<section class="working_process_sec" style="background:#F77A4012;">
+				<div class="container">
+					<div class="wps_con">
+						<div class="wps_head">
+							<h2 class="wps_tlt fs_48 tc_b fw_5 mb_16">Working Process - Excellence in <span class="tc_orn">MERN stack Development</span></h2>
+							<p class="fs_20 tc_lb fw_4 mb_30">
+								In every stride of our creative journey, we weave a tapestry of effective communication, imbued with transparency and collaboration, to craft bespoke MERN stack web development services that breathe life into our clients' visions. With each line of code meticulously woven, we sculpt a digital masterpiece that not only fulfills their unique requirements but also propels their businesses towards resplendent triumph.							</p>
+						</div>
+						<div class="wps_flow">
+							<div class="wps_steps">
+								<div class="wps_step">
+									<div class="wps_step_t_mob">
+										<div class="wps_step_t">
+											<span class="fw_5 tc_w wps_arrow wps_arrow_right">01</span>
+										</div>
+										<div class="wps_step_line_mob">
+											<span class="wps_step_line"></span>
+										</div>
+									</div>
+									<div class="wps_step_b">
+										<div class="wps_step_bt">
+											<span class="wps_step_line"></span>
+										</div>
+										<div class="wps_info">
+											<p class="fs_24 fw_5 tc_b mb_12 wps_info_tlt">Requirements Gathering and Analysis</p>
+											<ul>
+																										<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Understanding business objectives</span></li>
+																												<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Identify key functionalities</span></li>
+																												<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Gather all necessary information</span></li>
+																									</ul>
+										</div>
+									</div>
+								</div>
+								<div class="wps_step">
+									<div class="wps_step_t_mob">
+										<div class="wps_step_t">
+											<span class="fw_5 tc_w wps_arrow wps_arrow_right">02</span>
+										</div>
+										<div class="wps_step_line_mob">
+											<span class="wps_step_line"></span>
+										</div>
+									</div>
+
+									<div class="wps_step_b">
+										<div class="wps_step_bt">
+											<span class="wps_step_line"></span>
+										</div>
+
+										<div class="wps_info">
+											<p class="fs_24 fw_5 tc_b mb_12 wps_info_tlt">Planning and Design</p>
+											<ul>
+																										<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Design the architecture of web applications</span></li>
+																												<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Ensures optimal performance</span></li>
+																												<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Efficient structure</span></li>
+																									</ul>
+										</div>
+
+									</div>
+								</div>
+								<div class="wps_step">
+									<div class="wps_step_t_mob">
+										<div class="wps_step_t">
+											<span class="fw_5 tc_w wps_arrow wps_arrow_right">03</span>
+										</div>
+										<div class="wps_step_line_mob">
+											<span class="wps_step_line"></span>
+										</div>
+									</div>
+									<div class="wps_step_b">
+										<div class="wps_step_bt">
+											<span class="wps_step_line"></span>
+										</div>
+										<div class="wps_info">
+											<p class="fs_24 fw_5 tc_b mb_12 wps_info_tlt">Development and Coding</p>
+											<ul>
+																										<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Use their in-depth knowledge of the framework to write clean</span></li>
+																												<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Modular, and maintainable code</span></li>
+																												<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Ensure consistency</span></li>
+																									</ul>
+										</div>
+									</div>
+								</div>
+								<div class="wps_step">
+									<div class="wps_step_t_mob">
+										<div class="wps_step_t">
+											<span class="fw_5 tc_w wps_arrow wps_arrow_right">04</span>
+										</div>
+										<div class="wps_step_line_mob">
+											<span class="wps_step_line"></span>
+										</div>
+									</div>
+									<div class="wps_step_b">
+										<div class="wps_step_bt">
+											<span class="wps_step_line"></span>
+										</div>
+										<div class="wps_info">
+											<p class="fs_24 fw_5 tc_b mb_12 wps_info_tlt">Testing and Quality Assurance</p>
+											<ul>
+																										<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Rigorous testing</span></li>
+																												<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Quality assurance</span></li>
+																												<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Performance testing to optimize</span></li>
+																									</ul>
+										</div>
+									</div>
+								</div>
+								<div class="wps_step">
+									<div class="wps_step_t_mob">
+										<div class="wps_step_t">
+											<span class="fw_5 tc_w wps_arrow wps_arrow_right">05</span>
+										</div>
+										<div class="wps_step_line_mob">
+											<span class="wps_step_line"></span>
+										</div>
+									</div>
+									<div class="wps_step_b">
+										<div class="wps_step_bt">
+											<span class="wps_step_line"></span>
+										</div>
+										<div class="wps_info">
+											<p class="fs_24 fw_5 tc_b mb_12 wps_info_tlt">Deployment and Support</p>
+											<ul>
+																										<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Desired hosting environment</span></li>
+																												<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Smooth transition</span></li>
+																												<li class="fs_18 fw_4 tc_orn"><span class="tc_lb">Maintenance services</span></li>
+																									</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			
+<section class="blogs_section">
+		<div class="container">
+			<p class="fs_64 tc_b fw_5 mb_40">Related Inspired <span class="tc_orn">Stories</span></p>
+			<div>
+				
+	
+</div>
+<div class="story_blogs_box">
+	<div class="row">
+				<div class="col-md-4">
+			<a href="https://www.tridentspark.com/life-cycle-hooks-in-angular/" class="sbb_box">
+				<div class="sbb_img">
+					          <img src="https://www.tridentspark.com/wp-content/uploads/2024/01/Life-Cycle-Hooks-in-angular-img-1-e1707836972598.png" class="img-fluid web_item">
+				</div>
+				<p class="sbb_tlt txt_trnkt_1">Life Cycle Hooks in angular</p>
+        					<p class="sbb_dis txt_trnkt_2">The life of component in angular and its various stages. With Angular, you can build web applications dynamically and flexibly. The life cycle hooks are at the heart of the system, enabling developers to orchestrate the behavior of components throughout the lifecycle of each component. Angular hooks provide insight into how components are created, updated, and destroyed, allowing developers to control the application’s behavior precisely. .</p>
+				<!-- <p class="sbb_created_by">By: Harsh Yadav | July 10, 2023</p> -->
+			</a>
+		</div>
+			<div class="col-md-4">
+			<a href="https://www.tridentspark.com/what-is-joi-in-nodejs/" class="sbb_box">
+				<div class="sbb_img">
+					          <img src="https://www.tridentspark.com/wp-content/uploads/2024/01/what-is-joi.png" class="img-fluid web_item">
+				</div>
+				<p class="sbb_tlt txt_trnkt_1">What is Joi? In NodeJS</p>
+        					<p class="sbb_dis txt_trnkt_2">The Node.js runtime environment is extremely popular for creating server-side applications and APIs. Even though it allows developers to create various apps, security and integrity are fundamental issues. Here is where the renowned validation library JOI comes in handy. With JOI, you can logically define sanitization and validation, making the solution intuitive and user-friendly. In this article, we dig deep into JOI in nodejs validator and how it can be used to validate data. .</p>
+				<!-- <p class="sbb_created_by">By: Harsh Yadav | </p> -->
+			</a>
+		</div>
+			<div class="col-md-4">
+			<a href="https://www.tridentspark.com/angular-upgrade-and-basics-angular-upgrade-guide/" class="sbb_box">
+				<div class="sbb_img">
+					          <img src="https://www.tridentspark.com/wp-content/uploads/2023/12/angular-upgrade-and-basics-angular-upgrade-Guide_min.png" class="img-fluid web_item">
+				</div>
+				<p class="sbb_tlt txt_trnkt_1">Angular Upgrade And Basics: Angular Upgrade Guide</p>
+        					<p class="sbb_dis txt_trnkt_2">Angular, a popular and versatile web development framework, has witnessed several updates and iterations since its inception. As the web development landscape evolves, staying current with Angular versions and understanding the basics is crucial for developers and businesses alike. In this comprehensive guide, we will explore the essentials of Angular upgrades and the key points to consider when navigating this process .</p>
+				<!-- <p class="sbb_created_by">By: Harsh Yadav | </p> -->
+			</a>
+		</div>
+		</div>
+	<div class="sbb_see_more">
+		<a href="/blog" class="ts_btn btn_bordered">View More Stories</a>
+	</div>
+</div>
+
+<style type="text/css">
+	.mob_item { display: none; }
+	.web_item { display: block; }
+	.txt_trnkt_1 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+	.web_item { display: flex; justify-content: center; margin: 0 auto; height: 200px; max-height: 252px; }
+	.blogs_section { background: #F77A4012; padding: 5rem 0 10rem; margin: 0 0 -100px; text-align: center; }
+	.story_blogs_box { max-width: 1240px; margin: 0 auto; }
+	.sbb_box { display: block; margin: 0 0 42px; }
+	.sbb_img { margin: 0 0 22px; }
+	.sbb_tlt { font-weight: 500; font-size: 24px; line-height: 30px; text-align: center; color: #2F2F2F; margin: 0 0 6px; }
+	.sbb_dis { font-weight: 400; font-size: 16px; line-height: 20px; color: #2E2E2E; opacity: 0.5; margin: 10px 0 10px; }
+	.sbb_created_by { font-weight: 400; font-size: 18px; line-height: normal; text-align: center; color: #2F2F2F; margin: 0; }
+	.sbb_box:hover .sbb_tlt { color: #f77a40; transition: all 0.3s ease; }
+	.sbb_box:hover .sbb_dis { opacity: 0.8; transition: all 0.3s ease; }
+
+	@media (max-width: 640px) {
+		.mob_item { display: block; }
+		.web_item { display: none; }
+	.blogs_section { padding: 2.5rem 0 3rem; margin: 0; }
+	.sbb_box { display: block; margin: 0 0 22px; padding: 0 0 22px; border-bottom: 1px solid #fff; }
+	.sbb_img { margin: 0 0 0px; }
+	.sbb_tlt { font-size: 22px; line-height: 28px; color: #414141; margin: 0 0 16px; }
+	.sbb_dis { font-weight: 400; font-size: 16px; line-height: 22px; color: #2E2E2E; opacity: 0.5; margin: 8px 0 6px; }
+	.sbb_created_by { font-weight: 400; font-size: 14px; line-height: 20px; text-align: center; color: #2F2F2F; margin: 0; }
+	.story_blogs_box .row .col-md-4:last-child .sbb_box { margin: 0 0 32px; padding: 0px; border-bottom: none; }
+	}
+</style>
+			</div>
+		</div>
+	</section>
+
+			<section class="accordion_section" style="background:#fff;">
+				<div class="container">
+					<div class="text-center">
+						<h2 class="fs_48 tc_b fw_5 mb_16">FAQ</h2>
+					</div>
+												<div class="accordion_con">
+								<div class="accordion" id="accordionExample">
+									<div class="accordion-item">
+										<div class="accordion-header">
+											<button class="fs_16 fw_5 tc_b accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+												How experienced are the MERN stack developers at Trident Spark?											</button>
+										</div>
+										<div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+											<div class="fs_14 fw_4 tc_lb accordion-body">Our MERN stack developers are highly experienced professionals with a proven track record in delivering successful projects. They possess in-depth knowledge of the MERN stack technologies and stay updated with the latest trends and best practices</div>
+										</div>
+									</div>
+								</div>
+							</div>
+														<div class="accordion_con">
+								<div class="accordion" id="accordionExample">
+									<div class="accordion-item">
+										<div class="accordion-header">
+											<button class="fs_16 fw_5 tc_b accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+												Can I hire MERN stack developers on a full-time or part-time basis?											</button>
+										</div>
+										<div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+											<div class="fs_14 fw_4 tc_lb accordion-body">Yes, we offer flexible hiring options based on your project requirements. You can hire our MERN stack developers on a full-time, part-time, or hourly basis, depending on your specific needs.</div>
+										</div>
+									</div>
+								</div>
+							</div>
+														<div class="accordion_con">
+								<div class="accordion" id="accordionExample">
+									<div class="accordion-item">
+										<div class="accordion-header">
+											<button class="fs_16 fw_5 tc_b accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+												Can your MERN stack developers work on existing projects or join an ongoing development team?											</button>
+										</div>
+										<div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+											<div class="fs_14 fw_4 tc_lb accordion-body">Absolutely! Our MERN stack developers are skilled at seamlessly integrating into existing projects and collaborating with other team members. They can join your ongoing development team and contribute their expertise effectively.</div>
+										</div>
+									</div>
+								</div>
+							</div>
+														<div class="accordion_con">
+								<div class="accordion" id="accordionExample">
+									<div class="accordion-item">
+										<div class="accordion-header">
+											<button class="fs_16 fw_5 tc_b accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+												What level of involvement will I have when working with your MERN stack developers?											</button>
+										</div>
+										<div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+											<div class="fs_14 fw_4 tc_lb accordion-body">We believe in transparent and open communication throughout the development process. When you hire our MERN stack developers, you will have direct communication with them to discuss project requirements, provide feedback, and stay updated on the progress. We prioritize your involvement to ensure your satisfaction.</div>
+										</div>
+									</div>
+								</div>
+							</div>
+														<div class="accordion_con">
+								<div class="accordion" id="accordionExample">
+									<div class="accordion-item">
+										<div class="accordion-header">
+											<button class="fs_16 fw_5 tc_b accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+												Do your MERN stack developers follow agile development practices?											</button>
+										</div>
+										<div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+											<div class="fs_14 fw_4 tc_lb accordion-body">Yes, we follow agile methodologies in our development process. Our MERN stack developers are experienced in agile practices, allowing for flexibility, iterative development, and frequent communication to adapt to changing project needs.</div>
+										</div>
+									</div>
+								</div>
+							</div>
+											</div>
+			</section>
+			
+	<div class="container">
+		
+            </main><!-- #main -->
+        </div><!-- #primary -->
+    </div><!-- #content -->
+
+    
+    <footer id="colophon" class="site-footer">
+      
+      <section class="footer_section" style="position: relative; margin: 0px; overflow: hidden;">
+        <div class="container">
+          <div id="counter" class="ftr_top_highlites">
+            <div class="row">
+              <div class="col-md-3">
+                <div class="higlits_box">
+                  <div class="hb_img">
+                    <img src="/wp-content/uploads/2023/05/client-revenue.svg" class="img-fluid">
+                  </div>
+                  <p class="hd_tlt fs_50 tc_b fw_8 count" data-number="100">
+                    <span class="counter">10</span>
+                    <span class="ms-1">Million</span>
+                  </p>
+                  <p class="hd_tdis fs_20 tc_lb fw_4">Client Revenue</p>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="higlits_box">
+                  <div class="hb_img">
+                    <img src="/wp-content/uploads/2023/05/experince.svg" class="img-fluid">
+                  </div>
+                  <p class="hd_tlt fs_50 tc_b fw_8 count" data-number="12">
+                    <span class="counter">12</span>
+                    <span class="ms-1">Year</span>
+                  </p>
+                  <p class="hd_tdis fs_20 tc_lb fw_4">Experience</p>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="higlits_box">
+                  <div class="hb_img">
+                    <img src="/wp-content/uploads/2023/05/expert-team.svg" class="img-fluid">
+                  </div>
+                  <p class="hd_tlt fs_50 tc_b fw_8 count" data-number="30+">
+                    <span class="counter">30</span>
+                    <span>+</span>
+                  </p>
+                  <p class="hd_tdis fs_20 tc_lb fw_4">Expert Team</p>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="higlits_box">
+                  <div class="hb_img">
+                    <img src="/wp-content/uploads/2023/05/projects.svg" class="img-fluid">
+                  </div>
+                  <p class="hd_tlt fs_50 tc_b fw_8 count" data-number="100+">
+                    <span class="counter">100</span>
+                    <span>+</span>
+                  </p>
+                  <p class="hd_tdis fs_20 tc_lb fw_4">Projects</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="ftr-links" class="ftr_links">
+            <div class="row">
+              <!-- <div class="col-md-6"> -->
+                <!-- <div class="ftr_link_box">
+                  <p class="lnk_tlt">Need a line here</p>
+                </div> -->
+                <!-- <div class="row"> -->
+                  <!-- <div class="col-md-6 p-0">
+                    <div class="ftr_link_box">
+                      <ul>
+                        <li><a href="#"><span class="ftr_lnk_arrowQW-1"></span> Hire Angular Developers</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col-md-6 p-0">
+                    <div class="ftr_link_box">
+                      <ul>
+                        <li><a href="#"><span class="ftr_lnk_arrowQW-1"></span> Hire Python Developers</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div> -->
+              <div class="col-md-3" data-aos="fade-right" data-aos-duration="1500">
+                <div class="ftr_link_box">
+                  <p class="lnk_tlt">Hire Dedicated Developers</p>
+                  <ul>
+                    <li><a href="/technology/angular-development-company">Hire Angular Developers</a></li>
+                    <li><a href="/technology/reactjs-development-company">Hire ReactJS Developers</a></li>
+                    <li><a href="/technology/vue-js-development-company">Hire VueJS Developers</a></li>
+                    <li><a href="/technology/nodejs-development-company">Hire NodeJS Developers</a></li>
+                    <li><a href="/technology/nestjs-development-company">Hire NestJS Developers</a></li>
+                    <li><a href="/technology/expressjs-development-company">Hire ExpressJS Developers</a></li>
+                    <li><a href="/technology/front-end-javascript-development">Hire JavaScript Development</a></li>
+                    <li><a href="/technology/php-development-company">Hire PHP Developers</a></li>
+                    <li><a href="/technology/laravel-development-company">Hire Laravel Developers</a></li>
+                    <li><a href="/technology/codelgniter-development-company">Hire CodeIgniter Developers</a></li>
+                    <li><a href="/technology/python-development-company">Hire Python Developers</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md-3" data-aos="fade-right" data-aos-duration="1000">
+                <div class="ftr_link_box">
+                  <p class="lnk_tlt">Hire Dedicated Developers</p>
+                  <ul>
+                    <li><a href="/technology/mern-stack-development">Hire MERN Stack Development </a></li>
+                    <li><a href="/technology/lamp-stack-development-company">Hire LAMP Stack Development </a></li>
+                    <li><a href="/technology/squarespace-development-company">Hire SquareSpace Developers </a></li>
+                    <li><a href="/technology/wordpress-development-company">Hire WordPress Developers </a></li>
+                    <li><a href="/technology/webflow-development-company">Hire Webflow Developer </a></li>
+                    <li><a href="/technology/wix-development-company">Hire Wix Developer </a></li>
+                    <li><a href="/shopify-agency">Hire Shopify Developer </a></li>
+                    <li><a href="/technology/ios-development-company">Hire iOS Development </a></li>
+                    <li><a href="/technology/android-development-company">Hire Android Development </a></li>
+                    <li><a href="/technology/flutter-app-development-company">Hire Flutter Development </a></li>
+                    <li><a href="/technology/react-native-development-company">Hire React Native Development </a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md-3" data-aos="fade-right" data-aos-duration="1500">
+                <div class="ftr_link_box">
+                  <p class="lnk_tlt">Hire Dedicated Developers</p>
+                  <ul>
+                    <li><a href="/technology/aws-expert-development-company">Hire AWS Expert </a></li>
+                    <li><a href="/technology/gcp-development-company">Hire GCP Expert </a></li>
+                    <li><a href="/technology/ms-azure-expert-development-company">Hire MS Azure Expert </a></li>
+                    <li><a href="/technology/postgresql-development-company">Hire PostgreSQL </a></li>
+                    <li><a href="/technology/mysql-development-company">Hire MySQL </a></li>
+                    <li><a href="/technology/mongodb-development-company">Hire MongoDB </a></li>
+                    <li><a href="/technology/aws-development-company">Hire AWS DynamoDB </a></li>
+                    <li><a href="/technology/redis-development-company">Hire Redis </a></li>
+                    <li><a href="/technology/memcached-development-company">Hire Memcached </a></li>
+                  </ul>
+                </div>
+              </div>
+              <!-- <div class="col-md-3">
+                <div class="ftr_link_box">
+                  <p class="lnk_tlt">Industries Experience</p>
+                  <ul>
+                    <li><a href="#"><span class="ftr_lnk_arrowQW-1"></span> Supply chain & Logistic</a></li>
+                    <li><a href="#"><span class="ftr_lnk_arrowQW-1"></span> Education & Learning</a></li>
+                    <li><a href="#"><span class="ftr_lnk_arrowQW-1"></span> Healthcare</a></li>
+                    <li><a href="#"><span class="ftr_lnk_arrowQW-1"></span> Fintech</a></li>
+                    <li><a href="#"><span class="ftr_lnk_arrowQW-1"></span> E-Commerce</a></li>
+                    <li><a href="#"><span class="ftr_lnk_arrowQW-1"></span> Travel & Hotels</a></li>
+                  </ul>
+                </div>
+              </div> -->
+              <!-- <div class="col-md-2">
+                <div class="ftr_link_box">
+                  <p class="lnk_tlt">Contact us</p>
+                  <ul>
+                    <li><a href="#">support@tspark.com</a></li>
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">Linkedin</a></li>
+                    <li><a href="#">Twitter</a></li>
+                    <li><a href="#">support@tspark.com</a></li>
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">Linkedin</a></li>
+                    <li><a href="#">Twitter</a></li>
+                  </ul>
+                </div>
+              </div> <-->
+              <div class="col-md-3" data-aos="fade-right" data-aos-duration="1000">
+                <p class="lnk_tlt">Contact us</p>
+                <div class="ftr_contact_b">
+                  <div class="ftr_cbt">
+                    <div class="ftr_contacts">
+                      <p class="fs_16 tc_w fw_4">For Business</p>
+                      <a href="mailto:leads@tridentspark.com">leads@tridentspark.com</a>
+                    </div>
+                    <div class="ftr_contacts">
+                      <p class="fs_16 tc_w fw_4">For Job & Internship</p>
+                      <a href="mailto:care@tridentspark.com">care@tridentspark.com</a>
+                    </div>
+                  </div>
+                  <div class="ftr_cbc">
+                    <p class="ftr_cbc_tlt fs_16 tc_w fw_4">Follow Us</p>
+                    <div class="ftr_follow_icons">
+                      <a href="https://www.facebook.com/official.tridentspark" target="_blank">
+                        <img src="/wp-content/uploads/2023/05/facebook.png" class="img-fluid" />
+                      </a>
+                      <a href="https://www.linkedin.com/company/trident-spark" target="_blank">
+                        <img src="/wp-content/uploads/2023/05/linkedin.png" class="img-fluid" />
+                      </a>
+                      <a href="https://x.com/Trident_Spark" target="_blank" class="custom_icon">
+                        <img src="/wp-content/uploads/2024/09/twiter-icon-white.svg" class="img-fluid " />
+                      </a>
+                      <a href="https://www.instagram.com/trident_spark/" target="_blank" class="custom_icon">
+                        <img src="/wp-content/uploads/2024/09/instagram-icon.svg" class="img-fluid " />
+                      </a>
+                       <a href="https://www.youtube.com/@TridentSpark" target="_blank" class="custom_icon">
+                        <img src="https://www.tridentspark.com/wp-content/uploads/2024/09/youtube-icon.svg" class="img-fluid" />
+                      </a>
+                      <!-- <a href="#" target="_blank">
+                        <img src="/wp-content/uploads/2023/05/twitter.png" class="img-fluid">
+                      </a> -->
+                    </div>
+                  </div>
+                  <div class="ftr_cbb">
+                    <div class="ftr_contacts contactNewsLetter" id="contactNewsLetter">
+                      <p class="fs_16 tc_w fw_4 mb-2">Newsletter</p>
+                      <form class="newsLetterForm" id="newsLetterForm" name="newsLetterForm">
+                        <div class="ftr_submit_form form_box">
+                          <div class="input_field">
+                            <div class="input_row">
+                              <input type="email" placeholder="Enter Email" class="form-control newsletterEmail" id="newsletterEmail" maxlength="128">
+                              <div class="submit_btn">
+                                <button class="ts_btn btn_solid newsletterSubmit" type="button" id="newsletterSubmit">Submit 
+                                  <!-- <span class="loading loading-newsletter"></span> -->
+                                  <span class="custom_spinner spinner-border loading-newsletter ms-2" role="status">
+                                    <span class="visually-hidden">Loading...</span>
+                                  </span>
+                                </button>
+                              </div>
+                            </div>
+                            <span class="errorNewsEmail" id="errorNewsEmail" style="color: #f44336"></span>  
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                     <div class="ftr_contacts successNewsLetter" id="successNewsLetter" style="color: #4CAF50;">Thank you for subscribe news letter </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- <div class="ftr_links p-0">
+            <div class="ftr_follow_icons">
+              <a href="https://www.facebook.com/official.tridentspark/">
+                <img src="/wp-content/uploads/2023/05/facebook.png" class="img-fluid">
+              </a>
+              <a href="https://www.linkedin.com/company/trident-spark/">
+                <img src="/wp-content/uploads/2023/05/linkedin.png" class="img-fluid">
+              </a>
+              <a href="#">
+                <img src="/wp-content/uploads/2023/05/twitter.png" class="img-fluid">
+              </a>
+            </div>
+          </div> -->
+          <div class="ftr_bottom" data-aos="zoom-in" data-aos-duration="1500">
+            <p class="cmpny_name"><span class="tc_orn">Trident</span>Spark</p>
+            <p class="ftr_copy_rgt">© 2024 Trident Spark. All Rights Reserved.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- wave animation -->
+      <div class="wave_footer_animatiom">
+        <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+          <defs>
+            <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+          </defs>
+          <g class="parallax">
+            <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(255,255,255,0.7" />
+            <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(255,255,255,0.5)" />
+            <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(255,255,255,0.3)" />
+            <use xlink:href="#gentle-wave" x="48" y="7" fill="#fff" />
+          </g>
+        </svg>
+      </div>
+
+      
+      <div class="site-info">
+        <div class="site-name">
+                      <div class="site-logo"><a href="https://www.tridentspark.com/" class="custom-logo-link" rel="home"><img fetchpriority="high" fetchpriority="high" width="512" height="512" src="https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512.png" class="custom-logo" alt="Trident Spark Infotech" decoding="async" srcset="https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512.png 512w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-300x300.png 300w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-150x150.png 150w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-270x270.png 270w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-192x192.png 192w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-180x180.png 180w, https://www.tridentspark.com/wp-content/uploads/2023/05/cropped-ts_fav_512-32x32.png 32w" sizes="(max-width: 512px) 100vw, 512px" /></a></div>
+                      </div><!-- .site-name -->
+
+        
+        <div class="powered-by">
+          Proudly powered by <a href="https://wordpress.org/">WordPress</a>.        </div><!-- .powered-by -->
+      </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<script>document.body.classList.remove("no-js");</script>	<script>
+	if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
+		document.body.classList.add( 'is-IE' );
+	}
+	</script>
+	<script id='twenty-twenty-one-ie11-polyfills-js-after'>
+( Element.prototype.matches && Element.prototype.closest && window.NodeList && NodeList.prototype.forEach ) || document.write( '<script src="https://www.tridentspark.com/wp-content/themes/twentytwentyone/assets/js/polyfills.js?ver=1.8.1685517234"></scr' + 'ipt>' );
+</script>
+<script src='https://www.tridentspark.com/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.8.1685517234' id='twenty-twenty-one-responsive-embeds-script-js'></script>
+		<script>
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",(function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())}),!1);
+		</script>
+		
+</body>
+</html>
+
+<script type="text/javascript">
+  var a = 0;
+  $(window).scroll(function() {
+
+    var oTop = $('#counter').offset().top - window.innerHeight;
+    if (a == 0 && $(window).scrollTop() > oTop) {
+      $('.counter').each(function() {
+        var $this = $(this);
+        jQuery({ counter: 0 }).animate({ counter: $this.text() }, {
+          duration: 3000,
+          easing: 'swing',
+          step: function () {
+            $this.text(Math.ceil(this.counter));
+          }
+        });
+      });
+      a = 1;
+    }
+  });
+</script>
+
+<!-- <script type="text/javascript">
+  $(window).scroll(function() {
+    var oTop = $('#ftr-links').offset().top - window.innerHeight;
+    if (a == 0 && $(window).scrollTop() > oTop) {
+      $('.ftr_links .col-md-3').addClass('in-left');
+    }
+  });
+</script> -->
+
+<script>
+  $(document).ready(function(){
+    $(".loading-newsletter").css("display", "none");
+    $(".successNewsLetter").css("display", "none");
+    
+    jQuery('#newsletterEmail').keyup(function(){
+      var emailAddress = $('#newsletterEmail').val();
+      if(emailAddress !=null && emailAddress !=" "){
+        emailAddress = emailAddress.replace(/ +(?= )/g,'');
+        $('#newsletterEmail').val(emailAddress); 
+      }else{
+        var emailAddressCheckSpace = emailAddress.trim();
+        emailAddressCheckSpace = emailAddressCheckSpace.replace(/ +(?= )/g,'');
+        $('#newsletterEmail').val(emailAddressCheckSpace);  
+      }
+
+      var emailValid = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+      if(emailAddress !=" "  && emailAddress !="" && emailAddress !='undefined' && emailAddress.length > 0 && !emailValid.test(emailAddress)) {
+        $('.newsletterEmail').addClass('input_b_error');
+        $("#errorNewsEmail").text("Please enter valid email address.");
+        return false;
+      } else {
+        $('.newsletterEmail').removeClass('input_b_error');
+        $("#errorNewsEmail").text("");
+      }
+    });
+
+    jQuery('#newsletterEmail').keyup(function(){
+      var contactEmailAddress = $('.newsletterEmail').val();
+      var emailValid = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;           
+      if(contactEmailAddress !="" &&  contactEmailAddress !='undefined' && contactEmailAddress.length > 0 && !emailValid.test(contactEmailAddress)){
+        $('.newsletterEmail').addClass('input_b_error');
+        $(".errorNewsEmail").text("Please enter valid email address.");
+      }else {
+       $('.newsletterEmail').removeClass('input_b_error'); 
+       $(".errorNewsEmail").text("");
+     }
+
+   });
+    jQuery(".newsletterSubmit").click(function(){
+      var emailValid = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+      var onlyNumeric     = /^[0-9]{1,10}$/;
+      var newsletterEmail = $('.newsletterEmail').val();
+      if(newsletterEmail=="") {
+       $(".errorNewsEmail").text("Email is required.");
+       $('.newsletterEmail').addClass('input_b_error'); 
+       return false;
+     } else {
+      $('.newsletterEmail').removeClass('input_b_error'); 
+      $(".errorNewsEmail").text("");
+    }
+
+    if (!emailValid.test(newsletterEmail)){
+      $('.newsletterEmail').addClass('input_b_error'); 
+      $(".errorNewsEmail").text("Please enter valid email address.");
+      return false;
+    } else {
+      $('.newsletterEmail').removeClass('input_b_error'); 
+      $(".errorNewsEmail").text("");
+    }
+
+    $(".loading-newsletter").css("display", "inline-flex");
+
+    var postData = {
+      action: 'news_letter_data',
+      newsletterEmail: newsletterEmail,
+    }
+
+    $.ajax({
+      url: 'https://www.tridentspark.com/wp-admin/admin-ajax.php',
+      type: 'POST',
+      data:postData,
+      success: function (data) {
+        $("#errorNewsEmail").text("");
+        if(data == "0") {
+          $(".loading-newsletter").css("display", "none");
+          $(".contactNewsLetter").css("display", "none");
+          $(".successNewsLetter").css("display", "block");          
+          $('#newsLetterForm').trigger("reset");
+          setTimeout(function () {
+            $(".successNewsLetter").css("display", "none");
+            $(".contactNewsLetter").css("display", "block");
+          }, 4000);
+        } else {
+          $(".loading-newsletter-us").css("display", "none");
+          $("#errorNewsEmail").show();
+          $("#errorNewsEmail").text("Oops! something went wrong. please try again later.");
+          setTimeout(function () {
+            $('#errorNewsEmail').hide();
+          }, 4000);
+        }
+      },
+      error: function(error){
+        $(".loading-newsletter").css("display", "none");
+        $("#errorNewsEmail").show();
+        $("#errorNewsEmail").text("Oops! something went wrong. please try again later.");
+        setTimeout(function () {
+          $('#errorNewsEmail').hide();
+        }, 4000);
+      }
+    });
+
+  });
+  }); 
+</script>
+
+<!-- blog copy code -->
+<script>
+  $(document).ready(function(){
+      $('.cop_icn').click(function(){
+          var $cop_icn = $(this); // Store the clicked element in a variable
+          var content = $cop_icn.next('pre').text();
+          navigator.clipboard.writeText(content)
+          .then(function() {
+              $cop_icn.addClass('alert_mess'); // Add class to the clicked element
+              setTimeout(() => {
+            $cop_icn.removeClass('alert_mess'); // Remove class after 2000ms
+          }, 2000);
+          })
+          .catch(function(error) {
+              console.error('Unable to copy to clipboard:', error);
+              alert('Unable to copy to clipboard. Please try again.');
+          });
+      });
+  }); 
+</script>
+
+<style type="text/css">
+  .loading-newsletter{ display:none };
+  .successNewsLetter{ display:none };
+
+  .footer_section .row { margin: auto; }
+
+  .site-footer { background: #2E2825; margin: 100px 0 0 !important; max-width: 100%; padding: 0px; }
+  .ftr_top_highlites { max-width: 1340px; margin: 0px auto; background: #FFFFFF; box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.25); border-radius: 10px; position: relative; top: -74px; padding: 2rem 0; }
+  .higlits_box { text-align: center; }
+  .higlits_box .hd_tlt { margin: 0 0 8px; display: flex; justify-content: center; }
+  .higlits_box .hb_img img { max-width: 80px; }
+  .higlits_box .hd_tdis { margin: 0; }
+
+  .ftr_links { padding: 2rem 0 3rem; border-bottom: 1px solid rgb(255 255 255 / 10%); }
+  .lnk_tlt { font-weight: 400; font-size: 16px; line-height: 22px; text-transform: uppercase; color: #FFFFFF; margin: 0 0 12px; }
+  .ftr_link_box ul { list-style: none; padding: 0px; margin: 0px; }
+  .ftr_link_box ul li a { font-weight: 300; font-size: 15px; line-height: 32px; color: #FFFFFF; mix-blend-mode: normal; opacity: 0.8; text-decoration: none; }
+  .ftr_link_box ul li a:hover { opacity: 1; }
+
+  /*.ftr_follow_icons { text-align: center; padding: 2rem 0; }*/
+
+  .ftr_follow_icons .fs_16 { margin: 26px 0 16px; }
+  .ftr_follow_icons a { display: inline-block; text-decoration: none; margin-right: 14px; border: 1px solid #fff; border-radius: 100%; }
+  .ftr_follow_icons a img { max-width: 40px; }
+  .ftr_follow_icons { display: inline-flex; align-items: center; }
+  .ftr_follow_icons a.custom_icon {  padding: 7px; border-radius: 100%; width: 40px; height: 40px; display: inline-flex; align-items: center; justify-content: center; }
+  .ftr_follow_icons a.custom_icon img { height: 16px; }
+
+  .ftr_bottom { padding: 2rem 0 2.5rem; text-align: center; }
+  .ftr_bottom .cmpny_name { font-style: normal; font-weight: 600; font-size: 36px; line-height: 46px; color: #fff; margin: 0 0 18px; }
+  .ftr_bottom .ftr_copy_rgt { font-weight: 400; font-size: 14px; line-height: 14px; text-align: center; color: #FFFFFF; margin: 0; }
+  .site-info { display: none !important; }
+
+  .ftr_submit_form .input_row { display: flex; background: #fff; }
+  .ftr_submit_form .input_row input { border: none; margin: 0px; }
+  .ftr_submit_form .input_row input:focus { outline: none; box-shadow: none; }
+  .ftr_submit_form .submit_btn { margin: 0 10px; display: inline-flex; align-items: center; }
+  .ftr_submit_form .submit_btn .ts_btn { padding: 6px 22px; font-size: 14px; line-height: 19px; border-radius: 2px; max-height: 33px; display: inline-flex; }
+  .ftr_submit_form .input_field { position: relative; }
+  .ftr_submit_form .errorNewsEmail { position: absolute; bottom: -21px; font-size: 14px; line-height: 16px; }
+
+  /*.ftr_lnk_arrowQW { position: relative; width: 26px; height: 20px; display: inline-block; }
+  .ftr_lnk_arrowQW:before, .ftr_lnk_arrowQW:after { display: inline-block; width: 10px; height: 10px; border-top: 1.5px solid #cbc9c8; border-right: 1.5px solid #cbc9c8; position: absolute; content: ''; transform: rotate(45deg); top: 7px; }
+  .ftr_lnk_arrowQW:before { left: 7px; }
+  .ftr_lnk_arrowQW:after { left: 0; }
+  .ftr_link_box ul li a:hover .ftr_lnk_arrowQW:before ,
+  .ftr_link_box ul li a:hover .ftr_lnk_arrowQW:after { border-top: 1.5px solid #f77a40; border-right: 1.5px solid #f77a40; }*/
+
+
+  /*.ftr_lnk_arrow { osition: relative; eight: 0px; width: 0px; order: 8px solid; order-color: darkorange darkorange transparent transparent; ransform: rotate(45deg); }
+  .ftr_lnk_arrow:before, .ftr_lnk_arrow:after { ontent: ''; isplay: block; osition: absolute; eight: 0; width: 0; order: 5px solid; }
+  .ftr_lnk_arrow:before { border-color: darkorange transparent transparent darkorange; display: block; top: -1px; right: 0px; transform-origin: top right; transform: rotate(45deg);  }
+  .ftr_lnk_arrow:after { border-color: transparent darkorange darkorange transparent; top: 0px; right: -1px; transform-origin: top right; transform: rotate(-45deg); }*/
+
+  .ftr_contacts { margin: 0 0 18px; }
+  .ftr_contacts p { font-size: 15px; line-height: 30px; font-weight: 400; opacity: 0.8; margin: 0 0 0; }
+  .ftr_contacts a { color: #f77a40; opacity: 0.9; }
+  .ftr_contacts a:hover { opacity: 1; }
+
+  .ftr_contact_b { display: flex; flex-direction: column; justify-content: space-between; height: 100%; }
+
+  .ftr_cbc_tlt { margin-bottom: 10px; }
+
+  @media (max-width: 640px) {
+    .form_box { margin-bottom: 40px; }
+    .site-footer { margin: 0px 0 0 !important; }
+    .ftr_top_highlites { margin: 0px 4px; border-radius: 0px; padding: 18px 0 8px; top: 0px; }
+    .ftr_top_highlites .col-md-3 { max-width: 50%; }
+    .higlits_box { margin: 0 0 20px; }
+    .higlits_box .hd_tlt { margin: 0 0 0px; font-size: 24px; line-height: 30px; }
+    .higlits_box .hd_tdis { margin: 0; font-size: 18px; line-height: 28px; }
+    .ftr_links .lnk_tlt { margin: 20px 0 12px; }
+  }
+
+  .footer_section::before { content: ''; position: absolute; width: 100%; height: 100%; background-image: url(/wp-content/uploads/2023/12/bg_ftr_img-scaled.jpg); opacity: 0.06; }
+
+  /* Waves Animation start*/
+    .wave_footer_animatiom { position: relative; margin: 0; }
+    .wave_footer_animatiom .waves { position: absolute; width: 100%; min-height: 130px; max-height: 140px; bottom: 0; left: 0; z-index: 0; opacity: 0.07; }
+    .wave_footer_animatiom .parallax>use { animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite; }
+    .wave_footer_animatiom .parallax>use:nth-child(1) { animation-delay: -2s; animation-duration: 7s; }
+    .wave_footer_animatiom .parallax>use:nth-child(2) { animation-delay: -3s; animation-duration: 10s; }
+    .wave_footer_animatiom .parallax>use:nth-child(3) { animation-delay: -4s; animation-duration: 13s; }
+    .wave_footer_animatiom .parallax>use:nth-child(4) { animation-delay: -5s; animation-duration: 20s; }
+    @keyframes move-forever { 
+      0% { transform: translate3d(-90px, 0, 0); }
+      100% { transform: translate3d(85px, 0, 0); }
+    }
+
+    @media (max-width: 768px) {
+      .wave_footer_animatiom .waves { height: 130px; min-height: 100px; }
+    }
+  /* Waves Animation end*/
+</style>
+
+
+	</div>
+</div>
+
+<script type="text/javascript">
+	function hirePopupShow() {
+		// $("#show_hire_popup").toggleClass("hiring_fom_popup");
+		var element = document.getElementById("hiring_fom_popup");
+		element.classList.add("show_hire_popup");
+	}
+	function hirePopupHide() {
+		var element = document.getElementById("hiring_fom_popup");
+		element.classList.remove("show_hire_popup");
+	}
+</script>
