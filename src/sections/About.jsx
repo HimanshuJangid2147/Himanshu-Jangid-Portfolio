@@ -52,15 +52,10 @@ const About = () => {
                                     <li className="grid-subtext">Css</li>
                                     <li className="grid-subtext">Tailwind Css</li>
                                     <li className="grid-subtext">Java Script</li>
-
-                                </ul>
-                                <ul className="list-disc list-inside pl-6">
                                     <li className="grid-subtext">ReactJs</li>
                                     <li className="grid-subtext">ThreeJs</li>
                                     <li className="grid-subtext">NodeJS</li>
                                     <li className="grid-subtext">NodeJs</li>
-                                </ul>
-                                <ul className="list-disc list-inside pl-6">
                                     <li className="grid-subtext">Java</li>
                                     <li className="grid-subtext">C++</li>
                                     <li className="grid-subtext">MongoDB</li>
